@@ -166,9 +166,40 @@ var links1 = [
         image: '',
         star: 8,
         tags: '5.6',
+        location: 'Cumilla',
+        friend: false,
+    },
+    {
+        title: 'Araddha Puja',
+        url: 'https://www.facebook.com/das.dash.146',
+        description: '<p> নামঃ Araddha Puja  <br> বয়সঃ 20 <br> উচ্চতাঃ 5 ফিট 5.5 ইঞ্চি  <br> ঠিকানাঃ  Gazipur  <br> শিক্ষাগত যোগ্যতাঃHonours 3rd year(Running),,  <br> Department of Accounting,,Government Bangla College.. <br> রিলেশনশিপঃ সিঙ্গেল  <br> ভাল লাগা কাজ:   Traveling 😍😍+Pic tula <br> https://www.facebook.com/groups/HDHfamily/permalink/467472277762196/ <br> </p> ',
+        image: '',
+        star: 8,
+        tags: '5.5',
+        location: 'Gazipur',
+        friend: false,
+    },
+    {
+        title: 'Panna Debnath',
+        url: 'https://www.facebook.com/Pannadebnath4 ',
+        description: '<p> Name: Panna Debnath  <br> Place: Bhairab, Kishoregonj <br> Study: Honers e admit hobo  <br> Hight: 5fit 5 <br> Age:20 <br> Hobby:Traveling <br> </p> ',
+        image: '',
+        star: 8,
+        tags: '5.5',
+        location: 'Kishoregonj',
+        friend: false,
+    },
+    {
+        title: 'Snigdha Piu ',
+        url: 'https://web.facebook.com/swapno.swapno.37',
+        description: '<p> নামঃ  স্নিগ্ধা রায় পিউ <br> ঠিকানাঃ উত্তরা,  ঢাকা b<br> পড়াশোনাঃ Hsc batch 2020 ( Autopass)😄b<br> উচ্চতাঃ ৫ ফুট ৬ b<br> প্রিয় শখঃ বন্ধুদের সাথে আড্ডা দেওয়া, সাজুগুজু করা😅, ভ্রমণ করা b<br> প্রিয় রং: লাল আর গোলাপি<br> https://www.facebook.com/groups/3585652241558050/permalink/3826365937486678/b<br> </p> ',
+        image: '',
+        star: 8,
+        tags: '5.6',
         location: 'Dhaka',
         friend: false,
     },
+
 ];
 
 export default links1;

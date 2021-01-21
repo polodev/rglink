@@ -30,7 +30,7 @@ class PasswordComponent extends Component {
                     <form onSubmit={this.handleSubmit}>
                         <div className="form-group">
                             <label htmlFor="password">Secret</label>
-                            <input value={this.state.value} onChange={this.handleChange} type="text" id="password" className="form-control"/>
+                            <input value={this.state.value} onChange={this.handleChange} type="password" autofocus id="password" className="form-control"/>
                         </div>
                         <input type="submit" value="Submit" />
                     </form>

@@ -29,6 +29,16 @@ var links2 = [
         location: 'Kachua',
         friend: true,
     },
+    {
+        title: 'Susmita Sinha Roy',
+        url: 'https://www.facebook.com/susmitasinha.roy.1',
+        description: 'Studies BFA in Department of Drawing & Painting at University of Dhaka',
+        image: '',
+        star: 8,
+        tags: '',
+        location: 'Dhaka',
+        friend: true,
+    },
 ];
 
 export default links2;

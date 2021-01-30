@@ -1,4 +1,4 @@
-var links2 = [
+var friends = [
     {
         title: 'তমালিকা সরকার (প্রাপ্তি)',
         url: 'https://www.facebook.com/tomalika.sarker.94',
@@ -41,4 +41,4 @@ var links2 = [
     },
 ];
 
-export default links2;
+export default friends;

@@ -186,17 +186,6 @@ var links3 = [
         location: '',
         friend: false,
     },
-    {
-        title: 'Purnima Bristi ',
-        url: 'https://www.facebook.com/purnima.bristii',
-        url2: '',
-        description: 'Actress <br> https://www.facebook.com/photo?fbid=397895088075000&set=ecnf.100035635355757',
-        image: '',
-        star: 8,
-        tags: '',
-        location: '',
-        friend: false,
-    },
 ];
 
 export default links3;

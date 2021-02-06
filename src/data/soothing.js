@@ -1,7 +1,8 @@
 var soothing = [
     {
         title: 'Mim Mantasha',
-        url: 'https://www.facebook.com/official.mantasha',
+        url: 'https://www.facebook.com/mim.mantasha.31',
+        // url: 'https://www.facebook.com/official.mantasha',
         description: '❤A Bangladeshi Actress & Model, winner of Lux Channel I Superstar beauty pageant television show ❤ ',
         image: '',
         star: 10,

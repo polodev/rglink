@@ -29,16 +29,7 @@ var links1 = [
     //     location: 'Cumilla / daudkandi proabli',
     //     friend: false,
     // },
-    {
-        title: 'Soronika Debnath ',
-        url: 'https://www.facebook.com/shushi.debnath/',
-        description: 'Study in Eden Mohila College',
-        image: '',
-        star: 5,
-        tags: '',
-        location: 'Narayanganj',
-        friend: false,
-    },
+    
     // {
     //     title: 'Richita Tropa ',
     //     url: 'https://www.facebook.com/richita.tropa',

@@ -40,16 +40,6 @@ var friends = [
         friend: true,
     },
     {
-        title: 'Rumpa Shikder',
-        url: 'https://www.facebook.com/Rumpa.Shikder99',
-        description: 'Study cse in pabna university of science and technology',
-        image: '',
-        star: 8,
-        tags: '',
-        location: 'Pabna',
-        friend: true,
-    },
-    {
         title: 'Moumi Mou (Goddess)',
         url: 'https://www.facebook.com/profile.php?id=100010917400825',
         url2: '',

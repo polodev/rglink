@@ -33,17 +33,6 @@ var links3 = [
         friend: false,
     },
     {
-        title: 'Arpita Biswas Chowa ',
-        url: 'https://www.facebook.com/purnota.b',
-        url2: '',
-        description: 'Jagannath University Family',
-        image: '',
-        star: 6,
-        tags: '',
-        location: 'Dhaka',
-        friend: false,
-    },
-    {
         title: 'Kakoli Saha',
         url: 'https://www.facebook.com/kakoli.saha143',
         url2: '',

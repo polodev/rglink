@@ -1,15 +1,15 @@
 var links3 = [
-    {
-        title: 'Shrabonti Lopa (শ্রাবন্তী সাহা লোপা)',
-        url: 'https://www.facebook.com/osporshi.bd/',
-        url2: 'https://www.facebook.com/groups/2194961873983488/user/100009653771855/',
-        description: '<p> নাম- শ্রাবন্তী সাহা লোপা <br> বয়স- ২৩ <br> উচ্চতা - ৫\'৫" <br> যোগ্যতা - অনার্স ফাইনাল ইয়ার  <br> বর্তমান ঠিকানা - পাবনা <br> স্থায়ী ঠিকানা - রাজশাহী  <br> https://www.facebook.com/groups/2194961873983488/permalink/2274055962740745/ <br> </p> ',
-        image: '',
-        star: 8,
-        tags: '5.5',
-        location: 'Pabna/Rajshahi',
-        friend: false,
-    },
+    // {
+    //     title: 'Shrabonti Lopa (শ্রাবন্তী সাহা লোপা)',
+    //     url: 'https://www.facebook.com/osporshi.bd/',
+    //     url2: 'https://www.facebook.com/groups/2194961873983488/user/100009653771855/',
+    //     description: '<p> নাম- শ্রাবন্তী সাহা লোপা <br> বয়স- ২৩ <br> উচ্চতা - ৫\'৫" <br> যোগ্যতা - অনার্স ফাইনাল ইয়ার  <br> বর্তমান ঠিকানা - পাবনা <br> স্থায়ী ঠিকানা - রাজশাহী  <br> https://www.facebook.com/groups/2194961873983488/permalink/2274055962740745/ <br> </p> ',
+    //     image: '',
+    //     star: 8,
+    //     tags: '5.5',
+    //     location: 'Pabna/Rajshahi',
+    //     friend: false,
+    // },
     {
         title: 'Maithili Roy ',
         url: 'https://www.facebook.com/maithili.roy.984/',

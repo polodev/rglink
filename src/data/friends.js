@@ -94,6 +94,16 @@ var friends = [
         location: 'Faridpur. most probably stay in dhaka',
         friend: true,
     },
+    {
+        title: 'Mitale Debnath',
+        url: 'https://www.facebook.com/mitale.debnath.31',
+        description: 'Siddheswari Girls College',
+        image: '',
+        star: 2,
+        tags: 'Looks Beautiful, ',
+        location: 'Dhaka',
+        friend: false,
+    },
     // {
     //     title: 'Mrinmoyi Puja ',
     //     url: 'https://www.facebook.com/profile.php?id=100026827230781',

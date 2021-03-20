@@ -1,5 +1,15 @@
 var friends = [
     {
+        title: 'Aradhya Halder Aysorjo',
+        url: 'https://www.facebook.com/aysorjo.halder',
+        description: 'Beautiful and simple. Tejgaon college  But not a good student',
+        image: '',
+        star: 9,
+        tags: 'Looks Tall',
+        location: 'Dhaka',
+        friend: true,
+    },
+    {
         title: 'তমালিকা সরকার (প্রাপ্তি)',
         url: 'https://www.facebook.com/tomalika.sarker.94',
         description: 'She is selling crown for marraige. Students of IR. Having her own selling group https://www.facebook.com/TomoRupa/',

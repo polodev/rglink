@@ -7,7 +7,7 @@ var friends = [
         star: 10,
         tags: '',
         location: 'Narshingdi',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Sreyoshi Das Swarna',

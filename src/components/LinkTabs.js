@@ -3,6 +3,7 @@ import {Tabs, Tab} from 'react-bootstrap-tabs';
 import LinkTab from './LinkTab';
 import links1 from '../data/links1';
 import friends from '../data/friends';
+import priority from '../data/priority';
 import soothing from '../data/soothing';
 import links3 from '../data/links3';
 
@@ -14,6 +15,9 @@ class LinkTabs extends Component {
     render() { 
         return ( <div>
             <Tabs onSelect={(index, label) => console.log(label + ' selected')}>
+                <Tab label="Priority">
+                    <LinkTab title="" links={priority}></LinkTab>
+                </Tab>
                 <Tab label="Friends">
                     <LinkTab title="" links={friends}></LinkTab>
                 </Tab>

@@ -10,6 +10,16 @@ var friends = [
         friend: true,
     },
     {
+        title: 'Anuska Lasker (Rupa)',
+        url: 'https://www.facebook.com/rupa.lasker.1',
+        description: 'tall | beautiful | got friend request',
+        image: '',
+        star: 9,
+        tags: '5.5',
+        location: 'Jessore',
+        friend: true,
+    },
+    {
         title: 'Sipra Sarkar',
         url: 'https://www.facebook.com/shesh.bikalermeye',
         description: 'Work as software developer, Studing emba from ju. 5.7inch tall. might be having a boyfriend',

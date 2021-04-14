@@ -1,15 +1,5 @@
 var friends = [
     {
-        title: 'তমালিকা সরকার (প্রাপ্তি)',
-        url: 'https://www.facebook.com/tomalika.sarker.94',
-        description: 'She is selling crown for marraige. Students of IR. Having her own selling group https://www.facebook.com/TomoRupa/',
-        image: '',
-        star: 8,
-        tags: 'Looks Tall',
-        location: 'Noagoan/ gopalgonj',
-        friend: true,
-    },
-    {
         title: 'Anuska Lasker (Rupa)',
         url: 'https://www.facebook.com/rupa.lasker.1',
         description: 'tall | beautiful | got friend request',
@@ -29,6 +19,26 @@ var friends = [
     //     location: 'Dhaka',
     //     friend: true,
     // },
+    {
+        title: 'Satabdi Das (সহস্রাব্দী)',
+        url: 'https://www.facebook.com/satabdi.das.1865',
+        description: 'Like her. Good artist. Sunamganj Government College, Sunamganj. Bbaria. ',
+        image: '',
+        star: 7,
+        tags: 'Looks short',
+        location: 'Dhaka',
+        friend: true,
+    },
+    {
+        title: 'Mouli Debnath (চন্দ্র মহিমা)',
+        url: 'https://www.facebook.com/mouli.debnath18',
+        description: 'Pursuing for medical exam. send I love sarcasm message.',
+        image: '',
+        star: 9,
+        tags: 'Looks average. Meritorious',
+        location: 'Barisal',
+        friend: true,
+    },
     {
         title: 'Trishna Sarkar',
         url: 'https://www.facebook.com/trishna.sarkar.58118',

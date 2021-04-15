@@ -22,7 +22,7 @@ var priority = [
     {
         title: 'Sreyoshi Das Swarna',
         url: 'https://www.facebook.com/sreyoshi.das.330',
-        description: 'Sylheti | Freelancer | Affiliate Marketer | Entrepreneur',
+        description: 'Sylhet Sreemangal | Freelancer | Affiliate Marketer | Entrepreneur',
         image: '',
         star: 10,
         tags: 'Looks Tall',
@@ -37,6 +37,16 @@ var priority = [
         star: 8,
         tags: 'Looks Tall',
         location: 'Noagoan/ gopalgonj',
+        friend: true,
+    },
+    {
+        title: 'অনন্যা দেবনাথ',
+        url: 'https://www.facebook.com/ananyadebnath.debnath.9',
+        description: 'Beautiful Average',
+        image: '',
+        star: 7,
+        tags: '5.2',
+        location: 'Narayanganj Dhaka',
         friend: true,
     },
     {

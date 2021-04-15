@@ -49,26 +49,6 @@ var priority = [
         location: 'Dhaka',
         friend: true,
     },
-    {
-        title: 'Ananya Das',
-        url: 'https://www.facebook.com/profile.php?id=100010984958186',
-        description: 'Brac University and Viqarunnisa',
-        image: '',
-        star: 9,
-        tags: 'Beautiful | matured',
-        location: 'Dhaka',
-        friend: false,
-    },
-    {
-        title: 'তমালিকা সরকার (প্রাপ্তি)',
-        url: 'https://www.facebook.com/tomalika.sarker.94',
-        description: 'She is selling crown for marraige. Students of IR. Having her own selling group https://www.facebook.com/TomoRupa/',
-        image: '',
-        star: 8,
-        tags: 'Looks Tall',
-        location: 'Noagoan/ gopalgonj',
-        friend: true,
-    },
     
     
 ];

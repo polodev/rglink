@@ -161,6 +161,16 @@ var links3 = [
         location: 'Hobigonj',
         friend: false,
     },
+    {
+        title: 'Ananya Das',
+        url: 'https://www.facebook.com/profile.php?id=100010984958186',
+        description: 'Brac University and Viqarunnisa',
+        image: '',
+        star: 9,
+        tags: 'Beautiful | matured',
+        location: 'Dhaka',
+        friend: false,
+    },
 ];
 
 export default links3;

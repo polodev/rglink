@@ -59,6 +59,16 @@ var priority = [
         location: 'Dhaka',
         friend: true,
     },
+    {
+        title: 'শত নক্ষত্রের কাব্য',
+        url: 'https://www.facebook.com/goriacharjee.goriacharjee',
+        description: 'Beautiful tall from chandpur',
+        image: '',
+        star: 7,
+        tags: '5.5',
+        location: 'chandpur',
+        friend: true,
+    },
     
     
 ];

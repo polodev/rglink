@@ -62,7 +62,7 @@ var priority = [
     {
         title: 'শত নক্ষত্রের কাব্য',
         url: 'https://www.facebook.com/goriacharjee.goriacharjee',
-        description: 'Beautiful tall from chandpur',
+        description: 'নামঃ প্রমা আচার্য্য <br> উচ্চতাঃ ৫:৫"<br> শিক্ষাঃ Hsc;auto pass <br> ঠিকানাঃচাঁদপুর<br> শখঃ গান করা,কবিতা লেখা,বই পড়া।<br>',
         image: '',
         star: 7,
         tags: '5.5',

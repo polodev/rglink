@@ -69,6 +69,16 @@ var priority = [
         location: 'chandpur',
         friend: true,
     },
+    {
+        title: 'অর্পিতা সরকা',
+        url: 'https://www.facebook.com/arpita.mou.90',
+        description: 'Studied at BGMEA University of Fashion & Technology (BUFT)',
+        image: '',
+        star: 10,
+        tags: '5.4',
+        location: 'Dhaka / Dinajpur, Rājshāhi, Bangladesh',
+        friend: false,
+    },
     
     
 ];

@@ -1,14 +1,4 @@
 var friends = [
-    {
-        title: 'Anuska Lasker (Rupa)',
-        url: 'https://www.facebook.com/rupa.lasker.1',
-        description: 'tall | beautiful | got friend request',
-        image: '',
-        star: 9,
-        tags: '5.5',
-        location: 'Jessore',
-        friend: true,
-    },
     // {
     //     title: 'Sipra Sarkar',
     //     url: 'https://www.facebook.com/shesh.bikalermeye',

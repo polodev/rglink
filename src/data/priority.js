@@ -79,16 +79,16 @@ var priority = [
         location: 'Dhaka / Dinajpur, Rājshāhi, Bangladesh',
         friend: false,
     },
-    {
-        title: 'Anannaya Supty -(Anu)',
-        url: 'https://www.facebook.com/anannaya.shupty.1',
-        description: 'Studying in English Hons (BUBT) . From Faridpur',
-        image: '',
-        star: 8,
-        tags: '',
-        location: 'Dhaka / Faridpur',
-        friend: false,
-    },
+    // {
+    //     title: 'Anannaya Supty -(Anu)',
+    //     url: 'https://www.facebook.com/anannaya.shupty.1',
+    //     description: 'Studying in English Hons (BUBT) . From Faridpur',
+    //     image: '',
+    //     star: 8,
+    //     tags: '',
+    //     location: 'Dhaka / Faridpur',
+    //     friend: false,
+    // },
     
     
 ];

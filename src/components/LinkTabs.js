@@ -18,6 +18,8 @@ import people_narshingdi_1 from '../data/people_narshingdi_1.js';
 import people_other_places from '../data/people_other_places.js';
 import people_co_workers_1 from '../data/people_co_workers_1.js';
 import people_professional_1 from '../data/people_professional_1.js';
+import people_classmates_1 from '../data/people_classmates_1.js';
+import people_classmates_2 from '../data/people_classmates_2.js';
 
 var linkItems = [
     {
@@ -83,6 +85,14 @@ var linkItems = [
     {
         text: 'people_professional_1',
         item: people_professional_1,
+    },
+    {
+        text: 'people_classmates_1',
+        item: people_classmates_1,
+    },
+    {
+        text: 'people_classmates_2',
+        item: people_classmates_2,
     },
 ];
 

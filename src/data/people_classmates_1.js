@@ -139,6 +139,26 @@ var people_classmates_1 = [
         location: 'Kachua',
         friend: false,
     },
+    {
+        title: 'Nirupom FTFL',
+        url: 'https://www.facebook.com/nirupam.majumder.94',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Noakhali',
+        friend: false,
+    },
+    {
+        title: 'Rajib dada (I am fan)',
+        url: 'https://www.facebook.com/rajibshovon',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Dhaka',
+        friend: false,
+    },
     
 ];
 

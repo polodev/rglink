@@ -8,6 +8,18 @@ import priority from '../data/priority';
 import soothing from '../data/soothing';
 import links3 from '../data/links3';
 
+import people_dhaka_1 from '../data/people_dhaka_1.js';
+import people_dhaka_1 from '../data/people_dhaka_2.js';
+import people_dhaka_1 from '../data/people_dhaka_3.js';
+import people_dhaka_1 from '../data/people_dhaka_nearby_1.js';
+import people_dhaka_1 from '../data/people_kachua_1.js';
+import people_dhaka_1 from '../data/people_kachua_2.js';
+import people_dhaka_1 from '../data/people_narshingdi_1.js';
+import people_dhaka_1 from '../data/people_other_places.js';
+import people_dhaka_1 from '../data/people_co_workers_1.js';
+
+
+
 class LinkTabs extends Component {
     constructor(props) {
         super(props);

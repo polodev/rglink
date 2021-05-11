@@ -59,6 +59,26 @@ var friends2 = [
         location: '',
         friend: true,
     },
+    {
+        title: 'Sruity Roy',
+        url: 'https://www.facebook.com/srutiroy.srutiroy.9277',
+        description: 'short beautiful',
+        image: '',
+        star: 6,
+        tags: '',
+        location: 'Narshingdi',
+        friend: true,
+    },
+    {
+        title: 'Chandrika Roy',
+        url: 'https://www.facebook.com/leadenhurted.quin',
+        description: '',
+        image: '',
+        star: 6,
+        tags: '',
+        location: 'Razargoan',
+        friend: true,
+    },
 ];
 
 export default friends2;

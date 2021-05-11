@@ -1,14 +1,14 @@
 var friends2 = [
-    {
-        title: 'Nandita Baidhya Moon',
-        url: 'https://www.facebook.com/nandita008',
-        description: 'Dentist/cute/short',
-        image: '',
-        star: 6,
-        tags: '',
-        location: 'Dhaka / Near my locality(might)',
-        friend: true,
-    },
+    // {
+    //     title: 'Nandita Baidhya Moon',
+    //     url: 'https://www.facebook.com/nandita008',
+    //     description: 'Dentist/cute/short',
+    //     image: '',
+    //     star: 6,
+    //     tags: '',
+    //     location: 'Dhaka / Near my locality(might)',
+    //     friend: true,
+    // },
     {
         title: 'Kc debnath',
         url: 'https://www.facebook.com/kc.debnath.1',

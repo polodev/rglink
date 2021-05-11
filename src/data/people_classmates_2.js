@@ -19,6 +19,36 @@ var people_classmates_1 = [
         location: 'Dhaka',
         friend: false,
     },
+    {
+        title: 'Lingkon FTFL',
+        url: 'https://www.facebook.com/lingkon.monpura',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Dhaka',
+        friend: false,
+    },
+    {
+        title: 'Mobarock vi ftfl',
+        url: 'https://www.facebook.com/mobarak.ice',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Dhaka',
+        friend: false,
+    },
+    {
+        title: 'Gour FTFL',
+        url: 'https://www.facebook.com/gour.sarker',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Dhaka',
+        friend: false,
+    },
 ];
 
 export default people_classmates_1;

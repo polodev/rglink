@@ -29,26 +29,7 @@ var people_dhaka_1 = [
         location: 'Dhaka/chittagong',
         friend: false,
     },
-    {
-        title: 'Lingkon FTFL',
-        url: 'https://www.facebook.com/lingkon.monpura',
-        description: '',
-        image: '',
-        star: 1,
-        tags: '',
-        location: 'Dhaka',
-        friend: false,
-    },
-    {
-        title: 'Mobarock vi ftfl',
-        url: 'https://www.facebook.com/mobarak.ice',
-        description: '',
-        image: '',
-        star: 1,
-        tags: '',
-        location: 'Dhaka',
-        friend: false,
-    },
+    
     {
         title: 'Biplob dada gaibandha',
         url: 'https://www.facebook.com/biplob.barman.37',
@@ -109,16 +90,7 @@ var people_dhaka_1 = [
         location: 'Dhaka / america',
         friend: false,
     },
-    {
-        title: 'Gour FTFL',
-        url: 'https://www.facebook.com/gour.sarker',
-        description: '',
-        image: '',
-        star: 1,
-        tags: '',
-        location: 'Dhaka',
-        friend: false,
-    },
+    
     {
         title: 'Anik dada',
         url: 'https://www.facebook.com/anikchembuet',

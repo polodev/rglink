@@ -49,6 +49,16 @@ var people_professional_1 = [
         location: 'Dhaka',
         friend: false,
     },
+    {
+        title: 'Dibakar saha dip',
+        url: 'https://www.facebook.com/dhruborazz',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Dhaka',
+        friend: false,
+    },
 ];
 
 export default people_professional_1;

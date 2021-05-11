@@ -79,6 +79,16 @@ var people_kachua_3 = [
         location: 'Kachua',
         friend: false,
     },
+    {
+        title: 'Kamol dada kaporer dokan',
+        url: 'https://www.facebook.com/kamol.baddya',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Kachua',
+        friend: false,
+    },
     
 ];
 

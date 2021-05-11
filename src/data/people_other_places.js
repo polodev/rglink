@@ -49,6 +49,16 @@ var people_other_places = [
         location: 'Barura',
         friend: false,
     },
+    {
+        title: 'Nazmul police hobiganj',
+        url: 'https://www.facebook.com/profile.php?id=100050996781947',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Hobigonj',
+        friend: false,
+    },
 
 ];
 export default people_other_places;

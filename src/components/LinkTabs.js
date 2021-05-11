@@ -9,16 +9,77 @@ import soothing from '../data/soothing';
 import links3 from '../data/links3';
 
 import people_dhaka_1 from '../data/people_dhaka_1.js';
-import people_dhaka_1 from '../data/people_dhaka_2.js';
-import people_dhaka_1 from '../data/people_dhaka_3.js';
-import people_dhaka_1 from '../data/people_dhaka_nearby_1.js';
-import people_dhaka_1 from '../data/people_kachua_1.js';
-import people_dhaka_1 from '../data/people_kachua_2.js';
-import people_dhaka_1 from '../data/people_narshingdi_1.js';
-import people_dhaka_1 from '../data/people_other_places.js';
-import people_dhaka_1 from '../data/people_co_workers_1.js';
+import people_dhaka_2 from '../data/people_dhaka_2.js';
+import people_dhaka_3 from '../data/people_dhaka_3.js';
+import people_dhaka_nearby_1 from '../data/people_dhaka_nearby_1.js';
+import people_kachua_1 from '../data/people_kachua_1.js';
+import people_kachua_2 from '../data/people_kachua_2.js';
+import people_narshingdi_1 from '../data/people_narshingdi_1.js';
+import people_other_places from '../data/people_other_places.js';
+import people_co_workers_1 from '../data/people_co_workers_1.js';
 
-
+var linkItems = [
+    {
+        text: 'Priority',
+        item: priority,
+    },
+    {
+        text: 'Friends',
+        item: friends,
+    },
+    {
+        text: 'Friends 2',
+        item: friends2,
+    },
+    {
+        text: 'Soothing',
+        item: soothing,
+    },
+    {
+        text: 'links1',
+        item: links3,
+    },
+    {
+        text: 'Links3',
+        item: links3,
+    },
+    {
+        text: 'people_dhaka_1',
+        item: people_dhaka_1,
+    },
+    {
+        text: 'people_dhaka_2',
+        item: people_dhaka_2,
+    },
+    {
+        text: 'people_dhaka_3',
+        item: people_dhaka_3,
+    },
+    {
+        text: 'people_dhaka_nearby_1',
+        item: people_dhaka_nearby_1,
+    },
+    {
+        text: 'people_kachua_1',
+        item: people_kachua_1,
+    },
+    {
+        text: 'people_kachua_2',
+        item: people_kachua_2,
+    },
+    {
+        text: 'people_narshingdi_1',
+        item: people_narshingdi_1,
+    },
+    {
+        text: 'people_other_places',
+        item: people_other_places,
+    },
+    {
+        text: 'people_co_workers_1',
+        item: people_co_workers_1,
+    },
+];
 
 class LinkTabs extends Component {
     constructor(props) {
@@ -28,24 +89,15 @@ class LinkTabs extends Component {
     render() { 
         return ( <div>
             <Tabs onSelect={(index, label) => console.log(label + ' selected')}>
-                <Tab label="Priority">
-                    <LinkTab title="" links={priority}></LinkTab>
-                </Tab>
-                <Tab label="Friends">
-                    <LinkTab title="" links={friends}></LinkTab>
-                </Tab>
-                <Tab label="Friends 2">
-                    <LinkTab title="" links={friends2}></LinkTab>
-                </Tab>
-                <Tab label="Soothing">
-                    <LinkTab title="" links={soothing}></LinkTab>
-                </Tab>
-                <Tab label="Links 1">
-                    <LinkTab title="" links={links1}></LinkTab>
-                </Tab>
-                <Tab label="Links 3">
-                    <LinkTab title="" links={links3}></LinkTab>
-                </Tab>
+                {
+                    linkItems.map(linkItem => 
+                            <Tab label={linkItem.text}>
+                                <LinkTab title="" links={linkItem.item}></LinkTab>
+                            </Tab>
+
+                        )
+                }
+                
             </Tabs>
         </div> );
     }

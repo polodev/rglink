@@ -31,16 +31,6 @@ var people_dhaka_1 = [
     },
     
     {
-        title: 'Biplob dada gaibandha',
-        url: 'https://www.facebook.com/biplob.barman.37',
-        description: '',
-        image: '',
-        star: 1,
-        tags: '',
-        location: 'Gaibandha',
-        friend: false,
-    },
-    {
         title: 'Proloy dada Noagoan',
         url: 'https://www.facebook.com/pralay.shaha.75',
         description: '',

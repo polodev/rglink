@@ -59,6 +59,16 @@ var people_other_places = [
         location: 'Hobigonj',
         friend: false,
     },
+    {
+        title: 'Biplob dada gaibandha',
+        url: 'https://www.facebook.com/biplob.barman.37',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Gaibandha',
+        friend: false,
+    },
 
 ];
 export default people_other_places;

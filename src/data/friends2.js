@@ -69,6 +69,16 @@ var friends2 = [
         location: 'Razargoan',
         friend: true,
     },
+    {
+        title: 'Nilima Mallick cyclist',
+        url: 'https://www.facebook.com/nilimamallickdesigner',
+        description: '',
+        image: '',
+        star: 5,
+        tags: '',
+        location: 'Narayanganj',
+        friend: true,
+    },
 ];
 
 export default friends2;

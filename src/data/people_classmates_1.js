@@ -149,16 +149,6 @@ var people_classmates_1 = [
         location: 'Noakhali',
         friend: false,
     },
-    {
-        title: 'Rajib dada (I am fan)',
-        url: 'https://www.facebook.com/rajibshovon',
-        description: '',
-        image: '',
-        star: 1,
-        tags: '',
-        location: 'Dhaka',
-        friend: false,
-    },
     
 ];
 

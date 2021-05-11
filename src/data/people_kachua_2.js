@@ -89,6 +89,16 @@ var people_kachua_2 = [
         location: 'Kachua',
         friend: false,
     },
+    {
+        title: 'Prokash Manik dada vi',
+        url: 'https://www.facebook.com/sk.prakash123',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Kachua',
+        friend: false,
+    },
 ];
 
 export default people_kachua_2;

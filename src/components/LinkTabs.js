@@ -17,6 +17,7 @@ import people_kachua_2 from '../data/people_kachua_2.js';
 import people_narshingdi_1 from '../data/people_narshingdi_1.js';
 import people_other_places from '../data/people_other_places.js';
 import people_co_workers_1 from '../data/people_co_workers_1.js';
+import people_professional_1 from '../data/people_professional_1.js';
 
 var linkItems = [
     {
@@ -78,6 +79,10 @@ var linkItems = [
     {
         text: 'people_co_workers_1',
         item: people_co_workers_1,
+    },
+    {
+        text: 'people_professional_1',
+        item: people_professional_1,
     },
 ];
 

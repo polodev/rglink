@@ -101,6 +101,16 @@ var people_dhaka_1 = [
         location: 'Dhaka',
         friend: false,
     },
+    {
+        title: 'Shubhra dhar - funny and reader',
+        url: 'https://www.facebook.com/shubhra.dhar.944',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Dhaka',
+        friend: false,
+    },
 ];
 
 export default people_dhaka_1;

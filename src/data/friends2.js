@@ -1,5 +1,15 @@
 var friends2 = [
     {
+        title: 'Ratan Saha',
+        url: 'https://www.facebook.com/ratan.saha1',
+        description: 'Dhaka wari',
+        image: '',
+        star: 9,
+        tags: '',
+        location: 'Dhaka',
+        friend: true,
+    },
+    {
         title: 'Kc debnath',
         url: 'https://www.facebook.com/kc.debnath.1',
         description: 'Like him as girls father. Teacher from Naogaon',

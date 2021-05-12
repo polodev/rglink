@@ -49,6 +49,16 @@ var people_narshingdi_1 = [
         location: 'Narsingdi',
         friend: false,
     },
+    {
+        title: 'Pooja Debnath',
+        url: 'https://www.facebook.com/pooja.debnath.524',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Narsingdi',
+        friend: false,
+    },
 ];
 
 export default people_narshingdi_1;

@@ -20,6 +20,26 @@ var friends2 = [
         friend: true,
     },
     {
+        title: 'Ronoy Paul',
+        url: 'https://www.facebook.com/ronoy.paul',
+        description: '',
+        image: '',
+        star: 10,
+        tags: '',
+        location: 'Narshigdhi',
+        friend: true,
+    },
+    {
+        title: 'Anik Paul',
+        url: 'https://www.facebook.com/anik.pall.925',
+        description: '',
+        image: '',
+        star: 10,
+        tags: '',
+        location: 'Munsiganj dhaka',
+        friend: true,
+    },
+    {
         title: 'Moni gupta',
         url: 'https://www.facebook.com/moniguptag88',
         description: 'Looks honest, Nurse in evercare hospital',
@@ -69,6 +89,9 @@ var friends2 = [
         location: 'Narshingdi',
         friend: true,
     },
+
+    
+
     {
         title: 'Chandrika Roy',
         url: 'https://www.facebook.com/leadenhurted.quin',

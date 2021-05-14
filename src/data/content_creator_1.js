@@ -12,7 +12,7 @@ var content_creator_1 = [
     },
     {
         title: 'jesse_khach Youtube',
-        url: 'https://www.youtube.com/c/LetsTalkTechh/',
+        url: 'https://www.youtube.com/c/LetsTalkTechh/videos',
         description: 'Youtube',
         image: '',
         star: 1,

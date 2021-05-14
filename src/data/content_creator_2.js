@@ -41,7 +41,7 @@ var content_creator_2 = [
     },
     {
         title: 'charisma on command',
-        url: 'https://www.youtube.com/user/charismaoncommand',
+        url: 'https://www.youtube.com/user/charismaoncommand/videos',
         description: 'Productivity',
         image: '',
         star: 1,

@@ -109,5 +109,15 @@ var people_co_workers_1 = [
         location: 'Dhaka',
         friend: false,
     },
+    {
+        title: 'Jaynal Abedin Biplob',
+        url: 'https://www.facebook.com/grim.vampair',
+        description: 'Bimabd ex employee',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Dhaka',
+        friend: true,
+    },
 ];
 export default people_co_workers_1;

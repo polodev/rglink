@@ -7,7 +7,7 @@ var people_other_places = [
         star: 1,
         tags: '',
         location: 'Hajigonj',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Nayan mama ramgonj',
@@ -17,7 +17,7 @@ var people_other_places = [
         star: 1,
         tags: '',
         location: 'Ramganj',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Dider Hossain Noakhali',
@@ -27,7 +27,7 @@ var people_other_places = [
         star: 1,
         tags: '',
         location: 'Noakhali',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Kowshik Nath',
@@ -37,7 +37,7 @@ var people_other_places = [
         star: 1,
         tags: '',
         location: 'Noakhali',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Sourov Shemul didi',
@@ -47,7 +47,7 @@ var people_other_places = [
         star: 1,
         tags: '',
         location: 'Barura',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Nazmul police hobiganj',
@@ -57,7 +57,7 @@ var people_other_places = [
         star: 1,
         tags: '',
         location: 'Hobigonj',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Biplob dada gaibandha',
@@ -67,7 +67,17 @@ var people_other_places = [
         star: 1,
         tags: '',
         location: 'Gaibandha',
-        friend: false,
+        friend: true,
+    },
+    {
+        title: 'Zobaer Roni(স্নিগ্ধর বাবা)',
+        url: 'https://www.facebook.com/roni4455',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Borishal',
+        friend: true,
     },
 
 ];

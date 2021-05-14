@@ -89,6 +89,16 @@ var friends2 = [
         location: 'Narayanganj',
         friend: true,
     },
+    {
+        title: 'Tonusree NGO English Hons Islamic university',
+        url: 'https://www.facebook.com/tahani12345',
+        description: '',
+        image: '',
+        star: 5,
+        tags: '',
+        location: 'Cox\'s Bazar International University',
+        friend: true,
+    },
 ];
 
 export default friends2;

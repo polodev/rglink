@@ -59,6 +59,36 @@ var people_professional_1 = [
         location: 'Dhaka',
         friend: false,
     },
+    {
+        title: 'Alamin Kabir',
+        url: 'https://www.facebook.com/iamalamin ',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Dhaka',
+        friend: false,
+    },
+    {
+        title: 'Ahmed Shamim Hasan Shaon (religious blind but good at writing content',
+        url: 'https://m.facebook.com/ahmed.shamim.hassan',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Dhaka',
+        friend: false,
+    },
+    {
+        title: 'Rahat ahmed USA',
+        url: 'https://www.facebook.com/rahat.ahmed',
+        description: 'Venture capitalist',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'USA',
+        friend: false,
+    },
 ];
 
 export default people_professional_1;

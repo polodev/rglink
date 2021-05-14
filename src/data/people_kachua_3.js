@@ -7,7 +7,7 @@ var people_kachua_3 = [
         star: 1,
         tags: '',
         location: 'Kachua',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Nayon mama',
@@ -17,7 +17,7 @@ var people_kachua_3 = [
         star: 1,
         tags: '',
         location: 'Kachua',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Biplob dada primary teacher',
@@ -27,7 +27,7 @@ var people_kachua_3 = [
         star: 1,
         tags: '',
         location: 'Kachua',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Sazib (sakib er vai) hasander bari',
@@ -37,7 +37,7 @@ var people_kachua_3 = [
         star: 1,
         tags: '',
         location: 'Kachua',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Jobayer bin habib',
@@ -47,7 +47,7 @@ var people_kachua_3 = [
         star: 1,
         tags: '',
         location: 'Kachua',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Jani vagina (mithun)',
@@ -57,7 +57,7 @@ var people_kachua_3 = [
         star: 1,
         tags: '',
         location: 'Kachua',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Mamun (politician)',
@@ -67,7 +67,7 @@ var people_kachua_3 = [
         star: 1,
         tags: '',
         location: 'Kachua',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Kabir ahmed (furniture)',
@@ -77,7 +77,7 @@ var people_kachua_3 = [
         star: 1,
         tags: '',
         location: 'Kachua',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Kamol dada kaporer dokan',
@@ -87,7 +87,27 @@ var people_kachua_3 = [
         star: 1,
         tags: '',
         location: 'Kachua',
-        friend: false,
+        friend: true,
+    },
+    {
+        title: 'Sumon vi jhulphu',
+        url: 'https://www.facebook.com/sumon.sami.1234',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Kachua , america',
+        friend: true,
+    },
+    {
+        title: 'Sujon kaka - Konikar vai',
+        url: 'https://www.facebook.com/sujan.sarker.37625843',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Qatar',
+        friend: true,
     },
     
 ];

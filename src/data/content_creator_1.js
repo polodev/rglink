@@ -1,8 +1,8 @@
-var people_favorite_1 = [
+var content_creator_1 = [
     {
         title: 'jesse_khach Instagram',
         url: 'https://www.instagram.com/jesse_khach/',
-        url2: 'https://www.youtube.com/c/LetsTalkTechh/';
+        url2: 'https://www.youtube.com/c/LetsTalkTechh/',
         description: 'Instagram',
         image: '',
         star: 1,
@@ -12,7 +12,7 @@ var people_favorite_1 = [
     },
     {
         title: 'jesse_khach Youtube',
-        url: 'https://www.youtube.com/c/LetsTalkTechh/';
+        url: 'https://www.youtube.com/c/LetsTalkTechh/',
         description: 'Youtube',
         image: '',
         star: 1,
@@ -33,7 +33,7 @@ var people_favorite_1 = [
     },
     {
         title: 'Shaket Gokhale Youtube',
-        url: 'https://www.youtube.com/channel/UCfgrg0SXgNkZ7rTbnZCp6tg',
+        url: 'https://www.youtube.com/c/SaketGokhalevlogs/videos',
         description: '',
         image: '',
         star: 1,
@@ -135,7 +135,7 @@ var people_favorite_1 = [
     {
         title: 'Productivity',
         url: 'https://www.youtube.com/c/yebook/f',
-        description: '',
+        description: 'yeebook',
         image: '',
         star: 1,
         tags: '',
@@ -143,9 +143,9 @@ var people_favorite_1 = [
         friend: false,
     },
     {
-        title: '',
-        url: '',
-        description: '',
+        title: 'Learn with jara',
+        url: 'https://www.youtube.com/c/LearnWithJara/videos',
+        description: 'Productivity',
         image: '',
         star: 1,
         tags: '',
@@ -153,9 +153,9 @@ var people_favorite_1 = [
         friend: false,
     },
     {
-        title: '',
-        url: '',
-        description: '',
+        title: 'Enayet Chowdhury',
+        url: 'https://www.youtube.com/c/EnayetChowdhuryOfficial/videos',
+        description: 'Productivity / Information',
         image: '',
         star: 1,
         tags: '',
@@ -163,9 +163,9 @@ var people_favorite_1 = [
         friend: false,
     },
     {
-        title: '',
-        url: '',
-        description: '',
+        title: 'Anas Nuur Ali',
+        url: 'https://www.youtube.com/c/AnasNuurAli/videos',
+        description: 'Productivity',
         image: '',
         star: 1,
         tags: '',
@@ -173,9 +173,9 @@ var people_favorite_1 = [
         friend: false,
     },
     {
-        title: '',
-        url: '',
-        description: '',
+        title: 'Kharma Medic',
+        url: 'https://www.youtube.com/c/KharmaMedic/videos',
+        description: 'Productivity',
         image: '',
         star: 1,
         tags: '',
@@ -183,9 +183,19 @@ var people_favorite_1 = [
         friend: false,
     },
     {
-        title: '',
-        url: '',
-        description: '',
+        title: 'John Fishie',
+        url: 'https://www.youtube.com/c/JohnFishie/videos',
+        description: 'Productivity',
+        image: '',
+        star: 1,
+        tags: '',
+        location: '',
+        friend: false,
+    },
+    {
+        title: 'charisma on command',
+        url: 'https://www.youtube.com/user/charismaoncommand',
+        description: 'Productivity',
         image: '',
         star: 1,
         tags: '',
@@ -194,4 +204,4 @@ var people_favorite_1 = [
     },
 ];
 
-export default people_favorite_1;
+export default content_creator_1;

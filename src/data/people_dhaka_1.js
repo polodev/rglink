@@ -7,7 +7,7 @@ var people_dhaka_1 = [
         star: 10,
         tags: '',
         location: 'Dhaka',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Surith Bhowmick',
@@ -17,7 +17,7 @@ var people_dhaka_1 = [
         star: 1,
         tags: '',
         location: 'Dhaka',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Munna vi - Irfan friends',
@@ -27,7 +27,7 @@ var people_dhaka_1 = [
         star: 1,
         tags: '',
         location: 'Dhaka/chittagong',
-        friend: false,
+        friend: true,
     },
     
     {
@@ -38,7 +38,7 @@ var people_dhaka_1 = [
         star: 1,
         tags: '',
         location: 'Dhaka, Noagoan',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Rasadin Reza Jwel',
@@ -48,7 +48,7 @@ var people_dhaka_1 = [
         star: 1,
         tags: '',
         location: 'Dhaka / Noakhali',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Esty Haque',
@@ -58,7 +58,7 @@ var people_dhaka_1 = [
         star: 1,
         tags: '',
         location: 'Dhaka ',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Badol Mama',
@@ -68,7 +68,7 @@ var people_dhaka_1 = [
         star: 1,
         tags: '',
         location: 'Dhaka',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Papon christian ',
@@ -78,7 +78,7 @@ var people_dhaka_1 = [
         star: 1,
         tags: '',
         location: 'Dhaka / america',
-        friend: false,
+        friend: true,
     },
     
     {
@@ -89,7 +89,7 @@ var people_dhaka_1 = [
         star: 1,
         tags: '',
         location: 'Dhaka',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Ruel Mama',
@@ -99,7 +99,7 @@ var people_dhaka_1 = [
         star: 1,
         tags: '',
         location: 'Dhaka',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Shubhra dhar - funny and reader',
@@ -109,7 +109,27 @@ var people_dhaka_1 = [
         star: 1,
         tags: '',
         location: 'Dhaka',
-        friend: false,
+        friend: true,
+    },
+    {
+        title: 'Samiul Alam',
+        url: 'https://facebook.com/krazybecksam',
+        description: 'keyboard lover',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Dhaka',
+        friend: true,
+    },
+    {
+        title: 'Junayed Ahasan Ome',
+        url: 'https://www.facebook.com/junayed.ahasanome',
+        description: 'CEO of Gadgetoo',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Dhaka',
+        friend: true,
     },
 ];
 

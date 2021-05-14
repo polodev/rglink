@@ -21,6 +21,9 @@ import people_co_workers_1 from '../data/people_co_workers_1.js';
 import people_professional_1 from '../data/people_professional_1.js';
 import people_classmates_1 from '../data/people_classmates_1.js';
 import people_classmates_2 from '../data/people_classmates_2.js';
+import content_creator_1 from '../data/content_creator_1.js';
+import people_gym_1 from '../data/people_gym_1.js';
+import people_elite_1 from '../data/people_elite_1.js';
 
 var linkItems = [
     {
@@ -98,6 +101,14 @@ var linkItems = [
     {
         text: 'people_classmates_2',
         item: people_classmates_2,
+    },
+    {
+        text: 'people_gym_1',
+        item: people_gym_1,
+    },
+    {
+        text: 'content_creator_1',
+        item: content_creator_1,
     },
 ];
 

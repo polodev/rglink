@@ -9,6 +9,16 @@ var links1 = [
         location: 'Sylhet',
         friend: false,
     },
+    {
+        title: 'Benita Baidya Puja',
+        url: 'https://www.facebook.com/benita.baidya',
+        description: 'Medical students | palsh sister',
+        image: '',
+        star: 9,
+        tags: 'Meritorious',
+        location: 'Local',
+        friend: false,
+    },
     // {
     //     title: 'Aishwarja Das (মাটি)',
     //     url: 'https://www.facebook.com/ash.das.165470',

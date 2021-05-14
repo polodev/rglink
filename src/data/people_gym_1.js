@@ -1,7 +1,7 @@
 var people_gym_1 = [
     {
         title: 'Sk Porosh',
-        url: 'https://m.facebook.com/sk.porosh.142',
+        url: 'https://facebook.com/sk.porosh.142',
         description: 'Gym Uttara (aesthetic body)',
 
         image: '',

@@ -71,7 +71,7 @@ var people_professional_1 = [
     },
     {
         title: 'Ahmed Shamim Hasan Shaon (religious blind but good at writing content',
-        url: 'https://m.facebook.com/ahmed.shamim.hassan',
+        url: 'https://facebook.com/ahmed.shamim.hassan',
         description: '',
         image: '',
         star: 1,

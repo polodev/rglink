@@ -33,17 +33,6 @@ var people_gym_1 = [
         friend: true,
     },
     {
-        title: 'Hafizur Rahman',
-        url: 'https://facebook.com/hafizur.rahman.9843 ',
-        description: 'Gym',
-
-        image: '',
-        star: 1,
-        tags: '',
-        location: 'Dhaka',
-        friend: true,
-    },
-    {
         title: 'Tasdid Hasan(Molu)',
         url: 'https://www.facebook.com/tasdid.theviper',
         description: 'Gym',

@@ -45,7 +45,7 @@ var linkItems = [
     },
     {
         text: 'links1',
-        item: links3,
+        item: links1,
     },
     {
         text: 'Links3',

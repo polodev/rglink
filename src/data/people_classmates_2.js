@@ -149,6 +149,16 @@ var people_classmates_1 = [
         location: 'Kachua',
         friend: true,
     },
+    {
+        title: 'Nahid Rayhan - friends - biswa sahirto kendro',
+        url: 'https://www.facebook.com/nahid101rayhan',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Kachua',
+        friend: true,
+    },
 ];
 
 export default people_classmates_1;

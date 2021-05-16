@@ -159,6 +159,16 @@ var people_classmates_1 = [
         location: 'Kachua',
         friend: true,
     },
+    {
+        title: 'Adhir Sarker',
+        url: 'https://www.facebook.com/profile.php?id=100006149731956',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Kachua / Asheq ali khan',
+        friend: true,
+    },
 ];
 
 export default people_classmates_1;

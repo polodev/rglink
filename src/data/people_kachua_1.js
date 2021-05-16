@@ -83,6 +83,26 @@ var people_kachua_1= [
         location: 'Kachua',
         friend: false,
     },
+    {
+        title: 'Nur E Alam Rihath',
+        url: 'https://www.facebook.com/nur.rihath',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Kachua',
+        friend: false,
+    },
+    {
+        title: 'Nasir Rejon',
+        url: 'https://www.facebook.com/nasirrejon91',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Kachua dhaka',
+        friend: false,
+    },
 ];
 
 export default people_kachua_1

@@ -19,5 +19,15 @@ var people_india_1 = [
         location: 'India',
         friend: false,
     },
+    {
+        title: 'John Show',
+        url: 'https://www.facebook.com/profile.php?id=100004487596722',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'India',
+        friend: false,
+    },
 ];
 export default people_india_1;

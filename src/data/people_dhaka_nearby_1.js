@@ -19,6 +19,16 @@ var people_dhaka_nearby_1 = [
         location: 'Dhaka',
         friend: false,
     },
+    {
+        title: 'Tuhin vai - faisal friend',
+        url: 'https://www.facebook.com/tuhin.ayon',
+        description: 'Faisal vai',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Dhaka',
+        friend: false,
+    },
 ];
 
 export default people_dhaka_nearby_1;

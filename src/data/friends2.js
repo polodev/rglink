@@ -40,6 +40,16 @@ var friends2 = [
         friend: true,
     },
     {
+        title: 'Rita Nath',
+        url: 'https://www.facebook.com/rita.nath.56',
+        description: '',
+        image: '',
+        star: 10,
+        tags: '',
+        location: 'USA',
+        friend: true,
+    },
+    {
         title: 'Moni gupta',
         url: 'https://www.facebook.com/moniguptag88',
         description: 'Looks honest, Nurse in evercare hospital',
@@ -120,6 +130,16 @@ var friends2 = [
         star: 5,
         tags: '',
         location: 'Cox\'s Bazar International University',
+        friend: true,
+    },
+    {
+        title: 'Dipa Datto(দিপা দত্ত)',
+        url: 'https://www.facebook.com/profile.php?id=100010517802324',
+        description: '',
+        image: '',
+        star: 5,
+        tags: '',
+        location: 'Potuakhali',
         friend: true,
     },
 ];

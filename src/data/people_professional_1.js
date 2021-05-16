@@ -89,6 +89,26 @@ var people_professional_1 = [
         location: 'USA',
         friend: false,
     },
+    {
+        title: 'Sumon Mollah Selim',
+        url: 'https://www.facebook.com/SumonMSelim',
+        description: 'Work in Europe',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Europe',
+        friend: false,
+    },
+    {
+        title: 'Avi Aornoy',
+        url: 'https://www.facebook.com/aornoy',
+        description: 'Mysql Developer',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Dhaka',
+        friend: false,
+    },
 ];
 
 export default people_professional_1;

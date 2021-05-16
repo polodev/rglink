@@ -100,7 +100,7 @@ var people_classmates_1 = [
         friend: false,
     },
     {
-        title: 'Jwel / fakhrul',
+        title: 'Jwel / fakhrul islam jwel',
         url: 'https://www.facebook.com/diamond.black.330',
         description: '',
         image: '',

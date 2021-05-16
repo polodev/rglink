@@ -63,6 +63,16 @@ var people_kachua_1= [
         location: 'Kachua',
         friend: false,
     },
+    {
+        title: 'Ratan kagu modhupur',
+        url: 'https://www.facebook.com/ratan.sarkar.98871174',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Kachua',
+        friend: false,
+    },
 ];
 
 export default people_kachua_1

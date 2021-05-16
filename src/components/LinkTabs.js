@@ -12,15 +12,20 @@ import people_dhaka_1 from '../data/people_dhaka_1.js';
 import people_dhaka_2 from '../data/people_dhaka_2.js';
 import people_dhaka_3 from '../data/people_dhaka_3.js';
 import people_dhaka_nearby_1 from '../data/people_dhaka_nearby_1.js';
+
 import people_kachua_1 from '../data/people_kachua_1.js';
 import people_kachua_2 from '../data/people_kachua_2.js';
 import people_kachua_3 from '../data/people_kachua_3.js';
+import people_kachua_4 from '../data/people_kachua_4.js';
+import people_kachua_5 from '../data/people_kachua_5.js';
+
 import people_narshingdi_1 from '../data/people_narshingdi_1.js';
 import people_other_places from '../data/people_other_places.js';
 import people_co_workers_1 from '../data/people_co_workers_1.js';
 import people_professional_1 from '../data/people_professional_1.js';
 import people_classmates_1 from '../data/people_classmates_1.js';
 import people_classmates_2 from '../data/people_classmates_2.js';
+import people_india_1 from '../data/people_india_1.js';
 import content_creator_1 from '../data/content_creator_1.js';
 import content_creator_2 from '../data/content_creator_2.js';
 import people_gym_1 from '../data/people_gym_1.js';
@@ -80,6 +85,14 @@ var linkItems = [
         item: people_kachua_3,
     },
     {
+        text: 'people_kachua_4',
+        item: people_kachua_4,
+    },
+    {
+        text: 'people_kachua_5',
+        item: people_kachua_5,
+    },
+    {
         text: 'people_narshingdi_1',
         item: people_narshingdi_1,
     },
@@ -106,6 +119,10 @@ var linkItems = [
     {
         text: 'people_gym_1',
         item: people_gym_1,
+    },
+    {
+        text: 'people_india_1',
+        item: people_india_1,
     },
     {
         text: 'content_creator_1',

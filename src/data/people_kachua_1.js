@@ -73,6 +73,16 @@ var people_kachua_1= [
         location: 'Kachua',
         friend: false,
     },
+    {
+        title: 'Nazmul vai - talukder - Muslim professor',
+        url: 'https://www.facebook.com/nhtalukder',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Kachua',
+        friend: false,
+    },
 ];
 
 export default people_kachua_1

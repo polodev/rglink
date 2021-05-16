@@ -109,6 +109,16 @@ var people_professional_1 = [
         location: 'Dhaka',
         friend: false,
     },
+    {
+        title: 'Joy Shaheb - Article',
+        url: 'https://www.facebook.com/joy.shaheb.art.works',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Dhaka',
+        friend: false,
+    },
 ];
 
 export default people_professional_1;

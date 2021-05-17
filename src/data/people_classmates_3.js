@@ -28,9 +28,20 @@ var people_classmates_3 = [
         tags: '',
         location: 'Dhaka',
         friend: true,
-    },{
+    },
+    {
         title: 'Nirmal Dumuria',
         url: 'https://www.facebook.com/Nirmal2030',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Kachua',
+        friend: true,
+    },
+    {
+        title: 'Ismail Friend - palash',
+        url: 'https://www.facebook.com/md.ismail.3990418',
         description: '',
         image: '',
         star: 1,

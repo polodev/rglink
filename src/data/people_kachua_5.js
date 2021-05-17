@@ -30,9 +30,9 @@ var people_kachua_5 = [
         friend: true,
     },
     {
-        title: '',
-        url: '',
-        description: '',
+        title: 'MD Rakib Hasan',
+        url: 'https://www.facebook.com/profile.php?id=100042046802726',
+        description: 'Smart boy iphone user from palashpur',
         image: '',
         star: 1,
         tags: '',

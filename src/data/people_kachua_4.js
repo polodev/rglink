@@ -60,8 +60,8 @@ var people_kachua_4 = [
         friend: true,
     },
     {
-        title: 'Dr Pinku',
-        url: 'Pinku Chandra Sen',
+        title: 'https://www.facebook.com/pinkuchandra.sen',
+        url: 'Dr Pinku Chandra Sen',
         description: '',
         image: '',
         star: 1,

@@ -20,8 +20,8 @@ var people_kachua_5 = [
         friend: true,
     },
     {
-        title: '',
-        url: '',
+        title: 'Jiku BNP',
+        url: 'https://www.facebook.com/jiku.rocken76',
         description: '',
         image: '',
         star: 1,

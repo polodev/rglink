@@ -119,5 +119,15 @@ var people_co_workers_1 = [
         location: 'Dhaka',
         friend: true,
     },
+    {
+        title: 'Hiru sir - westin - my favrite sir',
+        url: 'https://www.facebook.com/ghiru',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Dhaka',
+        friend: false,
+    },
 ];
 export default people_co_workers_1;

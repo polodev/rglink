@@ -29,5 +29,15 @@ var people_india_1 = [
         location: 'India',
         friend: false,
     },
+    {
+        title: 'Rathin Biswas',
+        url: 'https://www.facebook.com/brathin',
+        description: 'Sub inspector of police',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'India',
+        friend: false,
+    },
 ];
 export default people_india_1;

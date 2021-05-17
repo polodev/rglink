@@ -1,4 +1,4 @@
-var people_classmates_1 = [
+var people_classmates_2 = [
     {
         title: 'Rajib dada (I am fan)',
         url: 'https://www.facebook.com/rajibshovon',
@@ -149,26 +149,7 @@ var people_classmates_1 = [
         location: 'Kachua',
         friend: true,
     },
-    {
-        title: 'Nahid Rayhan - friends - biswa sahirto kendro',
-        url: 'https://www.facebook.com/nahid101rayhan',
-        description: '',
-        image: '',
-        star: 1,
-        tags: '',
-        location: 'Kachua',
-        friend: true,
-    },
-    {
-        title: 'Adhir Sarker',
-        url: 'https://www.facebook.com/profile.php?id=100006149731956',
-        description: '',
-        image: '',
-        star: 1,
-        tags: '',
-        location: 'Kachua / Asheq ali khan',
-        friend: true,
-    },
+    
 ];
 
-export default people_classmates_1;
+export default people_classmates_2;

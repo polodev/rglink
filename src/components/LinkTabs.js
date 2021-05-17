@@ -23,11 +23,16 @@ import people_narshingdi_1 from '../data/people_narshingdi_1.js';
 import people_other_places from '../data/people_other_places.js';
 import people_co_workers_1 from '../data/people_co_workers_1.js';
 import people_professional_1 from '../data/people_professional_1.js';
+
 import people_classmates_1 from '../data/people_classmates_1.js';
 import people_classmates_2 from '../data/people_classmates_2.js';
+import people_classmates_3 from '../data/people_classmates_3.js';
+
 import people_india_1 from '../data/people_india_1.js';
+
 import content_creator_1 from '../data/content_creator_1.js';
 import content_creator_2 from '../data/content_creator_2.js';
+
 import people_gym_1 from '../data/people_gym_1.js';
 import people_elite_1 from '../data/people_elite_1.js';
 
@@ -115,6 +120,10 @@ var linkItems = [
     {
         text: 'people_classmates_2',
         item: people_classmates_2,
+    },
+    {
+        text: 'people_classmates_3',
+        item: people_classmates_3,
     },
     {
         text: 'people_gym_1',

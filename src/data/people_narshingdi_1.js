@@ -59,6 +59,26 @@ var people_narshingdi_1 = [
         location: 'Narsingdi',
         friend: false,
     },
+    {
+        title: 'Dipa Didi',
+        url: 'https://www.facebook.com/dipa.debonath.3',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Narsingdi',
+        friend: false,
+    },
+    {
+        title: 'Sheema Debnath',
+        url: 'https://www.facebook.com/sheema.debnath.9',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Narsingdi',
+        friend: false,
+    },
 ];
 
 export default people_narshingdi_1;

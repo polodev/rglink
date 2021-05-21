@@ -7,7 +7,7 @@ var people_india_1 = [
         star: 1,
         tags: '',
         location: 'India',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Venket naresh India',
@@ -17,7 +17,7 @@ var people_india_1 = [
         star: 1,
         tags: '',
         location: 'India',
-        friend: false,
+        friend: true,
     },
     {
         title: 'John Show',
@@ -27,7 +27,7 @@ var people_india_1 = [
         star: 1,
         tags: '',
         location: 'India',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Rathin Biswas',
@@ -37,7 +37,27 @@ var people_india_1 = [
         star: 1,
         tags: '',
         location: 'India',
-        friend: false,
+        friend: true,
+    },
+    {
+        title: 'Debasish Sarkar',
+        url: 'https://www.facebook.com/debasish.sarkar.927543',
+        description: 'engineering',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'India',
+        friend: true,
+    },
+    {
+        title: 'Pritam Chakraborty',
+        url: 'https://www.facebook.com/spritam16',
+        description: 'Like his post',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'India',
+        friend: true,
     },
 ];
 export default people_india_1;

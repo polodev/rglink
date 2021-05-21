@@ -90,16 +90,6 @@ var people_classmates_2 = [
         friend: true,
     },
     {
-        title: 'Anumpom friend - govt job',
-        url: 'https://www.facebook.com/anupom.sarker.1',
-        description: '',
-        image: '',
-        star: 1,
-        tags: '',
-        location: 'Kachua',
-        friend: true,
-    },
-    {
         title: 'Kazi Mishu',
         url: 'https://www.facebook.com/kazi.mishu2',
         description: '',

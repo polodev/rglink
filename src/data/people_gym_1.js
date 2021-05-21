@@ -76,6 +76,17 @@ var people_gym_1 = [
         location: 'India',
         friend: true,
     },
+    {
+        title: 'Alex Crockford Fitness',
+        url: 'https://www.facebook.com/AlexCrockfordFitness',
+        description: 'Facebook motivations',
+
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Usa',
+        friend: true,
+    },
 ];
 
 export default people_gym_1;

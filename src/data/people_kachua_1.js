@@ -1,8 +1,8 @@
 var people_kachua_1= [
     
     {
-        title: 'Subrata debanth fetepur',
-        url: 'https://www.facebook.com/shuva.debnath8',
+        title: 'Najmul Niloy',
+        url: 'https://www.facebook.com/mishuk.niloy',
         description: '',
         image: '',
         star: 1,

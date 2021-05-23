@@ -85,7 +85,41 @@ var people_gym_1 = [
         star: 1,
         tags: '',
         location: 'Usa',
+        friend: false,
+    },
+    {
+        title: 'Body building mhallenbeck photography',
+        url: 'https://www.facebook.com/mhallenbeckphotography',
+        description: 'gym body photography',
+
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Usa',
+        friend: false,
+    },
+    {
+        title: 'Bangladeshi Calisthenics Wolfy(Rocky)',
+        url: 'https://www.facebook.com/escanor.ban.940',
+        url2: 'https://www.facebook.com/rayhan.rocky.4',
+        description: 'Bangladeshi Calisthenics . https://www.facebook.com/rayhan.rocky.4',
+
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Bangladesh',
         friend: true,
+    },
+    {
+        title: 'Nick Cheadle Fitness',
+        url: 'https://www.facebook.com/nickcheadlefitness',
+        description: '',
+
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'USA',
+        friend: false,
     },
 ];
 

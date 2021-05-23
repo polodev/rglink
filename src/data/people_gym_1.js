@@ -44,6 +44,16 @@ var people_gym_1 = [
         friend: true,
     },
     {
+        title: 'nutrition depot bangladesh',
+        url: 'https://www.facebook.com/nutritiondepotbangladesh',
+        description: 'Gym products shop',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Dhaka',
+        friend: true,
+    },
+    {
         title: 'Thomas Keal page',
         url: 'https://www.facebook.com/ThomasKeal/',
         description: 'Gym',
@@ -113,6 +123,17 @@ var people_gym_1 = [
     {
         title: 'Nick Cheadle Fitness',
         url: 'https://www.facebook.com/nickcheadlefitness',
+        description: '',
+
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'USA',
+        friend: false,
+    },
+    {
+        title: 'Justin Howells',
+        url: 'https://www.facebook.com/justinjfit',
         description: '',
 
         image: '',

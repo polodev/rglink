@@ -142,6 +142,17 @@ var people_gym_1 = [
         location: 'USA',
         friend: false,
     },
+    {
+        title: 'David Licauco',
+        url: 'https://www.facebook.com/DavidLicaucoOfficial',
+        description: '',
+
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'USA',
+        friend: false,
+    },
 ];
 
 export default people_gym_1;

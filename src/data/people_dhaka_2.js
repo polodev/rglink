@@ -36,7 +36,17 @@ var people_dhaka_2 = [
         image: '',
         star: 1,
         tags: '',
-        location: 'Kachua',
+        location: 'Dhaka',
+        friend: true,
+    },
+    {
+        title: 'Yousha Khan',
+        url: 'https://www.facebook.com/youxxa.khan',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Dhaka',
         friend: true,
     },
 

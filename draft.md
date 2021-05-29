@@ -30,6 +30,22 @@ muth korte pare na
 sin siny 
 kicu dharte gele pore jai 
 
+## ismail 
+Alongside working with City Corporation, We are offering service like   
+
+
+Travel Agency Service
+Hajj Agency Service
+Transportation Service
+Some of our sister concerns is following 
+Khondoker Brothers Network Travel Agency (ATTAB Member)
+Khondoker Brothers Network Hajj Agency (HABB Member)
+Khondoker Brothers Network Transportation
+
+# about managing director 
+
+At, we feel and care about the city we live in, besides performing operational duties to maintain cleanliness in Dhaka city.
+
 
 
 

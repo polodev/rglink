@@ -90,16 +90,6 @@ var people_kachua_3 = [
         friend: true,
     },
     {
-        title: 'Sumon vi jhulphu',
-        url: 'https://www.facebook.com/sumon.sami.1234',
-        description: '',
-        image: '',
-        star: 1,
-        tags: '',
-        location: 'Kachua , america',
-        friend: true,
-    },
-    {
         title: 'Sujon kaka - Konikar vai',
         url: 'https://www.facebook.com/sujan.sarker.37625843',
         description: '',

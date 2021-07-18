@@ -49,6 +49,26 @@ var people_classmates_3 = [
         location: 'Kachua',
         friend: true,
     },
+    {
+        title: 'Istiak Ahmed classmates',
+        url: 'https://www.facebook.com/istiak.ahmmed.18',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Titumir College',
+        friend: true,
+    },
+    {
+        title: 'Hossain Kabir',
+        url: 'https://www.facebook.com/hossain.kabir.315',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Titumir College',
+        friend: true,
+    },
 ];
 
 export default people_classmates_3;

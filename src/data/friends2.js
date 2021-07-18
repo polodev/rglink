@@ -1,5 +1,15 @@
 var friends2 = [
     {
+        title: 'jitendra Debnath',
+        url: 'https://www.facebook.com/jitendra.devnath',
+        description: 'buet and susmita fathers',
+        image: '',
+        star: 9,
+        tags: '',
+        location: 'dhaka',
+        friend: true,
+    },
+    {
         title: 'Ashim Ranjan Das ',
         url: 'https://www.facebook.com/Ashimrdas',
         description: 'EX DGM Grameen Bank',

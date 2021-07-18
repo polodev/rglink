@@ -20,16 +20,6 @@ var friends = [
         friend: true,
     },
     {
-        title: 'bristy debnath',
-        url: 'https://www.facebook.com/bristy.debnath.568',
-        description: 'Daffodil',
-        image: '',
-        star: 7,
-        tags: 'Looks short',
-        location: 'Dhaka Kishorgonj',
-        friend: true,
-    },
-    {
         title: 'Mouli Debnath (চন্দ্র মহিমা)',
         url: 'https://www.facebook.com/mouli.debnath18',
         description: 'Pursuing for medical exam. send I love sarcasm message.',

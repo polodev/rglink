@@ -61,7 +61,7 @@ var priority = [
     },
     {
         title: 'Ananya Singh Anu',
-        url: 'https://www.facebook.com/ananya.lorin.9',
+        url: 'https://www.facebook.com/singh.ananya.anu',
         description: 'Jagannath university',
         image: '',
         star: 7,

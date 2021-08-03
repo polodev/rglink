@@ -124,6 +124,36 @@ var friends = [
     //     location: 'Sirajgonj',
     //     friend: false,
     // },
+    {
+        title: 'Nandita Baidhya Moon',
+        url: 'https://www.facebook.com/nandita008',
+        description: 'Dentist',
+        image: '',
+        star: 7,
+        tags: '',
+        location: 'dhaka cumilla neighbors',
+        friend: true,
+    },
+    {
+        title: 'bristy khulna - fake probability ',
+        url: 'https://www.facebook.com/sayoni.sayoni.7923',
+        description: '',
+        image: '',
+        star: 7,
+        tags: 'Looks tall',
+        location: 'khulna',
+        friend: true,
+    },
+    {
+        title: 'bristy khulna - fake probability ',
+        url: 'https://www.facebook.com/sayoni.sayoni.7923',
+        description: '',
+        image: '',
+        star: 7,
+        tags: 'Looks tall',
+        location: 'khulna',
+        friend: true,
+    },
 ];
 
 export default friends;

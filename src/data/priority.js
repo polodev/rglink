@@ -7,6 +7,29 @@ var priority = [
         star: 10,
         tags: '',
         location: 'Narshingdi',
+        fb_id: '',
+        friend: true,
+    },
+    {
+        title: 'Manashi Dey',
+        url: 'https://www.facebook.com/deymanashi5',
+        description: 'Brac University',
+        image: 'https://www.facebook.com/deymanashi5',
+        star: 10,
+        tags: 'Brack University',
+        location: 'Dhaka, Chittagong',
+        fb_id: '',
+        friend: true,
+    },
+    {
+        title: 'Antara Saha',
+        url: 'https://www.facebook.com/Antara.saha.antu5',
+        description: 'CSE department world university',
+        image: '',
+        star: 9,
+        tags: '',
+        location: 'Dhaka',
+        fb_id: '',
         friend: true,
     },
     {
@@ -17,6 +40,7 @@ var priority = [
         star: 7,
         tags: '',
         location: 'dhaka faridpur',
+        fb_id: '',
         friend: true,
     },
     {
@@ -27,6 +51,7 @@ var priority = [
         star: 10,
         tags: 'Looks Tall',
         location: 'Dhaka / Rajshahi',
+        fb_id: '',
         friend: true,
     },
     // {
@@ -37,6 +62,7 @@ var priority = [
     //     star: 10,
     //     tags: 'Looks Tall',
     //     location: 'Sylhet',
+    //     fb_id: '',
     //     friend: true,
     // },
     {
@@ -47,6 +73,7 @@ var priority = [
         star: 8,
         tags: 'Looks Tall',
         location: 'Noagoan/ gopalgonj',
+        fb_id: '',
         friend: true,
     },
     {
@@ -57,6 +84,7 @@ var priority = [
         star: 7,
         tags: 'Looks average',
         location: 'Dhaka Kishorgonj',
+        fb_id: '',
         friend: true,
     },
     {
@@ -67,6 +95,7 @@ var priority = [
         star: 7,
         tags: '5.2',
         location: 'Narayanganj Dhaka',
+        fb_id: '',
         friend: true,
     },
     {
@@ -77,6 +106,7 @@ var priority = [
         star: 7,
         tags: '5.2',
         location: 'Dhaka',
+        fb_id: '',
         friend: true,
     },
     // {
@@ -87,6 +117,7 @@ var priority = [
     //     star: 10,
     //     tags: '5.4',
     //     location: 'Dhaka / Dinajpur, Rājshāhi, Bangladesh',
+        // fb_id: '',
     //     friend: false,
     // },
     

@@ -90,16 +90,6 @@ var friends2 = [
         friend: true,
     },
     {
-        title: 'Bonna chowdhury',
-        url: 'https://www.facebook.com/Bonnachowdhury20',
-        description: 'fake hote pare',
-        image: '',
-        star: 7,
-        tags: '',
-        location: '',
-        friend: true,
-    },
-    {
         title: 'Tumpa',
         url: 'https://www.facebook.com/oporichitha.konna.7',
         description: 'Tall and has no vabs (which I love)',

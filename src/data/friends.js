@@ -103,6 +103,16 @@ var friends = [
         friend: true,
     },
     {
+        title: 'Tapoti Paul',
+        url: 'https://www.facebook.com/profile.php?id=100034887842808',
+        description: 'jamalpur',
+        image: '',
+        star: 6,
+        tags: 'Looks avarage',
+        location: 'jamalpur',
+        friend: true,
+    },
+    {
         title: 'Tri Sha',
         url: 'https://www.facebook.com/profile.php?id=100060818872011',
         description: 'Cambrian College',

@@ -64,6 +64,17 @@ var soothing = [
         location: '',
         friend: false,
     },
+    {
+        title: 'Sunerah Binte Kamal',
+        url: 'https://www.facebook.com/sunerah.bintekamal',
+        url2: '',
+        description: '',
+        image: '',
+        star: 8,
+        tags: '',
+        location: '',
+        friend: false,
+    },
 ];
 
 export default soothing;

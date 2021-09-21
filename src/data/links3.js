@@ -1,24 +1,14 @@
 var links3 = [
     {
-        title: 'Shrijita Dey',
-        url: 'https://www.facebook.com/shrijita58',
-        description: '<p> নামঃ সৃজিতা দে <br> বয়সঃ ২২ বছর।  <br> উচ্চতাঃ ৫ ফুট ৫ ইঞ্চি। <br> স্থায়ী ঠিকানাঃ ধানমন্ডি, ঢাকা <br> পেশাঃ স্টুডেন্ট । অর্নাস ৩য় বর্ষ : BSc in computer science and engineering (North South University) <br> রিলেশনশিপ স্ট্যাটাসঃ সিঙ্গেল😶 <br> পছন্দের রংঃ সাদা আর কালো। <br> পরিবারের সদস্যঃ বাবা, মা, দাদা । <br> শখঃ গান শুনতে অনেক পছন্দ করি।😊 <br> https://m.facebook.com/groups/HDHfamily/permalink/467939617715462/ <br> </p> ',
+        title: 'Joyshree Debi',
+        url: 'https://www.facebook.com/profile.php?id=100009944554638',
+        description: 'Dancer cute',
         image: '',
         star: 8,
-        tags: '5.5',
+        tags: '',
         location: 'Dhaka',
         friend: false,
     },
-    // {
-    //     title: 'Abanti bhowmik',
-    //     url: 'https://www.facebook.com/abanti.bhowmik.96',
-    //     description: 'Looks Amazing, However could be short',
-    //     image: '',
-    //     star: 7,
-    //     tags: '',
-    //     location: 'Dhaka',
-    //     friend: false,
-    // },
     {
         title: 'Ahona Saha (অর্পয়িত্রী সাহা অহনা)',
         url: 'https://www.facebook.com/ahona.saha.10',

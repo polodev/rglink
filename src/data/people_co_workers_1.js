@@ -81,7 +81,7 @@ var people_co_workers_1 = [
     },
     {
         title: 'Arnab dada',
-        url: 'https://www.facebook.com/luap.banra',
+        url: 'https://www.facebook.com/arnab0818',
         description: '',
         image: '',
         star: 1,

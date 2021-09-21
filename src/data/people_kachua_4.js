@@ -60,8 +60,8 @@ var people_kachua_4 = [
         friend: true,
     },
     {
-        title: 'https://www.facebook.com/pinkuchandra.sen',
-        url: 'Dr Pinku Chandra Sen',
+        title: 'Dr Pinku Chandra Sen',
+        url: 'https://www.facebook.com/pinkuchandra.sen',
         description: '',
         image: '',
         star: 1,
@@ -127,16 +127,6 @@ var people_kachua_4 = [
         star: 1,
         tags: '',
         location: 'Kachua',
-        friend: true,
-    },
-    {
-        title: 'Trisna vowmick',
-        url: 'https://www.facebook.com/dorakasartara.tara',
-        description: '',
-        image: '',
-        star: 1,
-        tags: '',
-        location: 'Kachua / narayanganj',
         friend: true,
     },
     {

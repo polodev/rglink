@@ -110,7 +110,7 @@ var people_gym_1 = [
     },
     {
         title: 'Bangladeshi Calisthenics Wolfy(Rocky)',
-        url: 'https://www.facebook.com/escanor.ban.940',
+        url: 'https://www.facebook.com/rayhanrocky96',
         url2: 'https://www.facebook.com/rayhan.rocky.4',
         description: 'Bangladeshi Calisthenics . https://www.facebook.com/rayhan.rocky.4',
 

@@ -1,17 +1,11 @@
 ## thumbnail image for facebook
 http://graph.facebook.com/67563683055/picture?type=square
 
+https://www.instagram.com/susmiiee/
+
 
 # links for update soon
-https://www.facebook.com/maitry.roy.796
-/tri sha
-https://www.facebook.com/profile.php?id=100060818872011
-https://www.facebook.com/shiprasarkar25
-// tanushree vowmik
-https://www.facebook.com/profile.php?id=100007233317227
-https://www.facebook.com/sneha24roy
-https://www.facebook.com/deymanashi5
-https://www.facebook.com/Antara.saha.antu5
+
 
 Some important principles
 1. training frequency → per muscle group 2-3 times training 

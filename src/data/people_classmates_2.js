@@ -129,16 +129,6 @@ var people_classmates_2 = [
         location: 'Kachua',
         friend: true,
     },
-    {
-        title: 'Badhon Modhupur',
-        url: 'https://www.facebook.com/badhan.sarkar.908',
-        description: '',
-        image: '',
-        star: 1,
-        tags: '',
-        location: 'Kachua',
-        friend: true,
-    },
     
 ];
 

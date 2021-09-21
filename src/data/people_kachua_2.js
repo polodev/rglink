@@ -124,16 +124,6 @@ var people_kachua_2 = [
         friend: false,
     },
     {
-        title: 'Dipu friend',
-        url: 'https://www.facebook.com/mahmudjobair007',
-        description: '',
-        image: '',
-        star: 1,
-        tags: '',
-        location: 'Dhaka / Kachua',
-        friend: false,
-    },
-    {
         title: 'Milon vi (Julphu)',
         url: 'https://www.facebook.com/profile.php?id=100007222031303',
         description: '',

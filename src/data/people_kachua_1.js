@@ -10,6 +10,16 @@ var people_kachua_1= [
         location: 'Kachua',
         friend: false,
     },
+    {
+        title: 'Mamun - didir student',
+        url: 'https://www.facebook.com/profile.php?id=100057403252780',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Kachua',
+        friend: false,
+    },
     
     
     

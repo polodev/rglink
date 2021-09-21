@@ -109,19 +109,6 @@ var friends2 = [
         location: 'Narshingdi',
         friend: true,
     },
-
-    
-
-    {
-        title: 'Chandrika Roy',
-        url: 'https://www.facebook.com/leadenhurted.quin',
-        description: '',
-        image: '',
-        star: 6,
-        tags: '',
-        location: 'Razargoan',
-        friend: true,
-    },
     {
         title: 'Nilima Mallick cyclist',
         url: 'https://www.facebook.com/nilimamallickdesigner',

@@ -7,7 +7,7 @@ var people_kachua_2 = [
         star: 1,
         tags: '',
         location: 'Dhaka / Kachua',
-        friend: false,
+        friend: true,
     },
     
     {
@@ -18,7 +18,7 @@ var people_kachua_2 = [
         star: 1,
         tags: '',
         location: 'Kachua',
-        friend: false,
+        friend: true,
     },
     
     {
@@ -29,7 +29,7 @@ var people_kachua_2 = [
         star: 1,
         tags: '',
         location: 'Kachua / Bidesh',
-        friend: false,
+        friend: true,
     },
     
     {
@@ -40,7 +40,7 @@ var people_kachua_2 = [
         star: 1,
         tags: '',
         location: 'Kachua',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Sumon Julphu',
@@ -50,7 +50,7 @@ var people_kachua_2 = [
         star: 1,
         tags: '',
         location: 'Kachua/america',
-        friend: false,
+        friend: true,
     },
     
     {
@@ -61,7 +61,7 @@ var people_kachua_2 = [
         star: 1,
         tags: '',
         location: 'Kachua',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Mithun Palashpur',
@@ -71,7 +71,7 @@ var people_kachua_2 = [
         star: 1,
         tags: '',
         location: 'Kachua',
-        friend: false,
+        friend: true,
     },
     {
         title: 'ajoy saha partha, kachua bazar',
@@ -81,7 +81,7 @@ var people_kachua_2 = [
         star: 1,
         tags: '',
         location: 'kachua',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Joy saha arju kachua bazar',
@@ -91,7 +91,7 @@ var people_kachua_2 = [
         star: 1,
         tags: '',
         location: 'kachua',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Pijush dada (dhirendra)',
@@ -101,7 +101,7 @@ var people_kachua_2 = [
         star: 1,
         tags: '',
         location: 'Dhaka',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Dipu Nirasha choto vai',
@@ -111,7 +111,7 @@ var people_kachua_2 = [
         star: 1,
         tags: '',
         location: 'Kachua',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Saykat chandra (sumon)',
@@ -121,7 +121,7 @@ var people_kachua_2 = [
         star: 1,
         tags: '',
         location: 'Kachua',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Milon vi (Julphu)',
@@ -131,7 +131,7 @@ var people_kachua_2 = [
         star: 1,
         tags: '',
         location: 'Kachua / america',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Arjun Sarkar - kachua dokan',
@@ -141,7 +141,17 @@ var people_kachua_2 = [
         star: 1,
         tags: '',
         location: 'Kachua',
-        friend: false,
+        friend: true,
+    },
+    {
+        title: 'Mahamudur Rahman ( Limon )',
+        url: 'https://www.facebook.com/adboth.limon',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Kachua',
+        friend: true,
     },
 ];
 

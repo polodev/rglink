@@ -1,10 +1,11 @@
 ## thumbnail image for facebook
 http://graph.facebook.com/67563683055/picture?type=square
 
-https://www.instagram.com/susmiiee/
-
+# nsu sn 
+seezan.choudhury@aceadvisory.biz
 
 # links for update soon
+https://www.facebook.com/shusmita.banik.1
 
 
 Some important principles

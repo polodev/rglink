@@ -7,7 +7,7 @@ var people_professional_1 = [
         star: 1,
         tags: '',
         location: 'Dhaka',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Mizanur Rahaman Telenor Health',
@@ -17,7 +17,7 @@ var people_professional_1 = [
         star: 1,
         tags: '',
         location: 'Dhaka',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Kamruzzaman Ripon (রিপন)',
@@ -27,7 +27,7 @@ var people_professional_1 = [
         star: 1,
         tags: '',
         location: 'Dhaka',
-        friend: false,
+        friend: true,
     },
     {
         title: 'sumon saha nanosoft',
@@ -37,7 +37,7 @@ var people_professional_1 = [
         star: 1,
         tags: '',
         location: 'Dhaka',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Imran vi wordpress',
@@ -47,7 +47,7 @@ var people_professional_1 = [
         star: 1,
         tags: '',
         location: 'Dhaka',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Dibakar saha dip',
@@ -57,7 +57,7 @@ var people_professional_1 = [
         star: 1,
         tags: '',
         location: 'Dhaka',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Alamin Kabir',
@@ -67,7 +67,7 @@ var people_professional_1 = [
         star: 1,
         tags: '',
         location: 'Dhaka',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Ahmed Shamim Hasan Shaon (religious blind but good at writing content',
@@ -77,7 +77,7 @@ var people_professional_1 = [
         star: 1,
         tags: '',
         location: 'Dhaka',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Rahat ahmed USA',
@@ -87,7 +87,7 @@ var people_professional_1 = [
         star: 1,
         tags: '',
         location: 'USA',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Sumon Mollah Selim',
@@ -97,7 +97,7 @@ var people_professional_1 = [
         star: 1,
         tags: '',
         location: 'Europe',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Avi Aornoy',
@@ -107,7 +107,7 @@ var people_professional_1 = [
         star: 1,
         tags: '',
         location: 'Dhaka',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Joy Shaheb - Article',
@@ -117,7 +117,37 @@ var people_professional_1 = [
         star: 1,
         tags: '',
         location: 'Dhaka',
-        friend: false,
+        friend: true,
+    },
+    {
+        title: 'Harun R Rayhan',
+        url: 'https://www.facebook.com/HarunRRayhan007',
+        description: 'AWS Developer, native chandpur',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Dhaka',
+        friend: true,
+    },
+    {
+        title: 'Mamun sir',
+        url: 'https://www.facebook.com/mamunnu/',
+        description: 'Radius theme',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Dhaka',
+        friend: true,
+    },
+    {
+        title: 'Sumit Saha(সুমিত)',
+        url: 'https://www.facebook.com/sumit.analyzen',
+        description: 'Learn with sumit',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Dhaka',
+        friend: true,
     },
 ];
 

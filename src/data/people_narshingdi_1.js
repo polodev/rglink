@@ -7,7 +7,7 @@ var people_narshingdi_1 = [
         star: 1,
         tags: '',
         location: 'Narsingdi',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Biswajit dada',
@@ -17,7 +17,7 @@ var people_narshingdi_1 = [
         star: 1,
         tags: '',
         location: 'Hajigonj',
-        friend: false,
+        friend: true,
     },
     // {
     //     title: 'Topu saha prem',
@@ -27,7 +27,7 @@ var people_narshingdi_1 = [
     //     star: 1,
     //     tags: '',
     //     location: 'Narsingdi',
-    //     friend: false,
+    //     friend: true,
     // },
     {
         title: 'Hemon Dada',
@@ -37,7 +37,7 @@ var people_narshingdi_1 = [
         star: 1,
         tags: '',
         location: 'Narsingdi',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Pritam saha',
@@ -47,18 +47,18 @@ var people_narshingdi_1 = [
         star: 1,
         tags: '',
         location: 'Narsingdi',
-        friend: false,
+        friend: true,
     },
-    {
-        title: 'Pooja Debnath',
-        url: 'https://www.facebook.com/pooja.debnath.524',
-        description: '',
-        image: '',
-        star: 1,
-        tags: '',
-        location: 'Narsingdi',
-        friend: false,
-    },
+    // {
+    //     title: 'Pooja Debnath',
+    //     url: 'https://www.facebook.com/pooja.debnath.524',
+    //     description: '',
+    //     image: '',
+    //     star: 1,
+    //     tags: '',
+    //     location: 'Narsingdi',
+    //     friend: true,
+    // },
     {
         title: 'Dipa Didi',
         url: 'https://www.facebook.com/dipa.debonath.3',
@@ -67,7 +67,7 @@ var people_narshingdi_1 = [
         star: 1,
         tags: '',
         location: 'Narsingdi',
-        friend: false,
+        friend: true,
     },
     {
         title: 'Sheema Debnath',
@@ -77,7 +77,17 @@ var people_narshingdi_1 = [
         star: 1,
         tags: '',
         location: 'Narsingdi',
-        friend: false,
+        friend: true,
+    },
+    {
+        title: 'Gopal Debnath (Kagu)',
+        url: 'https://www.facebook.com/profile.php?id=100068335403281',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Narsingdi',
+        friend: true,
     },
 ];
 

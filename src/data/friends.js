@@ -10,6 +10,17 @@ var friends = [
         friend: true,
     },
     {
+        title: 'Shrestta Das',
+        url: 'https://www.facebook.com/anzy.berry.376',
+        description: 'Modern. Treating her as little sister.',
+        image: '',
+        star: 9,
+        tags: 'Looks average. Meritorious',
+        location: 'Sylhet',
+        friend: true,
+    },
+
+    {
         title: 'Satabdi Das (সহস্রাব্দী)',
         url: 'https://www.facebook.com/satabdi.das.1865',
         description: 'Like her. Good artist. Sunamganj Government College, Sunamganj. Bbaria. ',

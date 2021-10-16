@@ -1,3 +1,8 @@
+## susmita 
+https://www.facebook.com/vishakha.rinisvee
+https://www.facebook.com/profile.php?id=100008671231160
+
+
 ## thumbnail image for facebook
 http://graph.facebook.com/67563683055/picture?type=square
 
@@ -6,6 +11,20 @@ seezan.choudhury@aceadvisory.biz
 
 # links for update soon
 https://www.facebook.com/shusmita.banik.1
+
+# for professional people
+https://www.facebook.com/HarunRRayhan007
+https://www.facebook.com/mamunnu/
+https://www.facebook.com/sumit.analyzen
+https://www.facebook.com/devzakir
+https://www.facebook.com/Niazlincoln
+https://www.facebook.com/thisismanik
+https://www.facebook.com/Asif2BD
+https://www.facebook.com/jkawshar
+
+
+
+
 
 
 Some important principles

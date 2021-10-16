@@ -49,6 +49,16 @@ var people_dhaka_2 = [
         location: 'Dhaka',
         friend: true,
     },
+    {
+        title: 'Sajadul Mahin',
+        url: 'https://www.facebook.com/profile.php?id=100008671231160',
+        description: 'Susmita dhar classmate. Notre dame university',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Dhaka',
+        friend: true,
+    },
 
 ];
 

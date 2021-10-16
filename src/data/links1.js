@@ -1,8 +1,8 @@
 var links1 = [
     {
-        title: 'shotabdibanik.tithi',
-        url: 'https://www.facebook.com/shotabdibanik.tithi',
-        description: 'amazing lips',
+        title: 'Susmita Banik',
+        url: 'https://www.facebook.com/shusmita.banik.1',
+        description: 'Manashi dey classmate - pharmacy',
         image: '',
         star: 9,
         tags: '',
@@ -10,13 +10,13 @@ var links1 = [
         friend: false,
     },
     {
-        title: 'Shrestta Das',
-        url: 'https://www.facebook.com/anzy.berry.376',
-        description: 'Modern. Treating her as little sister.',
+        title: 'Vishakha Dhar Bornali',
+        url: 'https://www.facebook.com/vishakha.rinisvee',
+        description: 'Sushmita dhar younger',
         image: '',
         star: 9,
-        tags: 'Looks average. Meritorious',
-        location: 'Sylhet',
+        tags: '',
+        location: '',
         friend: false,
     },
     // {
@@ -84,17 +84,6 @@ var links1 = [
         location: 'Dhaka',
         friend: false,
     },
-    // {
-    //     title: 'Tribeni Nath Shirsha',
-    //     url: 'https://www.facebook.com/groups/2194961873983488/user/100046130860344',
-    //     url2: 'https://www.facebook.com/groups/257832262010200/user/100046130860344',
-    //     description: 'Dancer',
-    //     image: '',
-    //     star: 10,
-    //     tags: '',
-    //     location: 'Dhaka',
-    //     friend: false,
-    // },
     
 
 ];

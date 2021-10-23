@@ -1,26 +1,52 @@
-## susmita 
-https://www.facebook.com/vishakha.rinisvee
-https://www.facebook.com/profile.php?id=100008671231160
+## oishi friends 
+Tinmoni Simsang(Tinu)
+https://www.facebook.com/tinmoni.simsang.3
+
+Hakima Proma
+https://www.facebook.com/hakima.ayman.18
+
+Atia Rahman(Shit)
+https://www.facebook.com/tara.zina.1
+
+Mehbuba Hyder Jerry
+https://www.facebook.com/jerryjerry.jerry.1029
+
+Puja Bormon
+https://www.facebook.com/puja.bormon.739
+
+Mukta Chakma(Marcy)
+https://www.facebook.com/ista.dewan
+
+Sadia Sayed Pouravi
+https://www.facebook.com/sadiasayed.pouravi
+
+Anika Hasan(Leo)
+https://www.facebook.com/anika.hasan.leo
+
+Sabikun Sumaiya Raina
+https://www.facebook.com/sabikunsumaiya.raina.9
+
+Sumaiya Anjum Onty
+https://www.facebook.com/sumaiya.anjum.359778
 
 
-## thumbnail image for facebook
-http://graph.facebook.com/67563683055/picture?type=square
+Effat Aysha(অসুন্দরী)
+https://www.facebook.com/cat.person2001
 
-# nsu sn 
-seezan.choudhury@aceadvisory.biz
+Tonima Turna
+https://www.facebook.com/tonima.turna
 
-# links for update soon
-https://www.facebook.com/shusmita.banik.1
+Sadia Sayed
+https://www.facebook.com/sadia.sayed.142
 
-# for professional people
-https://www.facebook.com/HarunRRayhan007
-https://www.facebook.com/mamunnu/
-https://www.facebook.com/sumit.analyzen
-https://www.facebook.com/devzakir
-https://www.facebook.com/Niazlincoln
-https://www.facebook.com/thisismanik
-https://www.facebook.com/Asif2BD
-https://www.facebook.com/jkawshar
+NusRat Mimi
+https://www.facebook.com/profile.php?id=100068582940879
+
+Afsana Akhter
+https://www.facebook.com/afsana.akhter.58760
+
+Jasiya Sultana
+https://www.facebook.com/profile.php?id=100055240722924
 
 
 

@@ -22,6 +22,17 @@ var priority = [
         friend: true,
     },
     {
+        title: 'Manashi Dey instagram',
+        url: 'https://www.instagram.com/_deymanashi_/',
+        description: 'Brac University',
+        image: 'https://www.facebook.com/deymanashi5',
+        star: 10,
+        tags: 'Brack University',
+        location: 'Dhaka, Chittagong',
+        fb_id: '',
+        friend: true,
+    },
+    {
         title: 'Sushmita Dhar Baishakhi(Sushmi)',
         url: 'https://www.facebook.com/profile.php?id=100000526263327',
         description: 'old crush',

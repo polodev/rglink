@@ -44,6 +44,17 @@ var priority = [
         friend: true,
     },
     {
+        title: 'Bornaly Debnath Purna',
+        url: 'https://www.facebook.com/profile.php?id=100015216246731',
+        description: 'Debnath from Notre dame',
+        image: '',
+        star: 9,
+        tags: 'tall, debnath, brilliant',
+        location: 'Dhaka',
+        fb_id: '',
+        friend: true,
+    },
+    {
         title: 'Antara Saha',
         url: 'https://www.facebook.com/Antara.saha.antu5',
         description: 'CSE department world university',

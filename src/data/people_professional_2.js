@@ -59,6 +59,16 @@ var people_professional_1 = [
         location: 'Dhaka',
         friend: true,
     },
+    {
+        title: 'Sarthak Shrivastava',
+        url: 'https://www.facebook.com/sarthak.shrivastava.56',
+        description: 'Laravel teacher',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Dhaka',
+        friend: true,
+    },
 ];
 
 export default people_professional_1;

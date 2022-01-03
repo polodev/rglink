@@ -36,6 +36,7 @@ import content_creator_1 from '../data/content_creator_1.js';
 import content_creator_2 from '../data/content_creator_2.js';
 
 import people_gym_1 from '../data/people_gym_1.js';
+import people_gym_friends_1 from '../data/people_gym_friends_1';
 import people_elite_1 from '../data/people_elite_1.js';
 
 var linkItems = [
@@ -134,6 +135,10 @@ var linkItems = [
     {
         text: 'people_gym_1',
         item: people_gym_1,
+    },
+    {
+        text: 'people_gym_friends_1',
+        item: people_gym_friends_1,
     },
     {
         text: 'people_india_1',

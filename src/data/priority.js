@@ -153,17 +153,6 @@ var priority = [
         fb_id: '',
         friend: false,
     },
-    {
-        title: 'Bornaly Debnath Purna',
-        url: 'https://www.facebook.com/profile.php?id=100015216246731',
-        description: '',
-        image: '',
-        star: 9,
-        tags: '',
-        location: 'Dhaka',
-        fb_id: '100015216246731',
-        friend: false,
-    },
     // {
     //     title: 'অর্পিতা সরকা',
     //     url: 'https://www.facebook.com/arpita.mou.90',

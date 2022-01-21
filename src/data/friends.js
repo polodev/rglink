@@ -61,17 +61,17 @@ var friends = [
         friend: true,
     },
  
-    {
-        title: 'Shorna Biswas',
-        url: 'https://www.facebook.com/shorna.biswas.9619/',
-        url2: '',
-        description: '<p>Live in rupgonj narayan gonj. height 5.6. try to be a army before. </p>',
-        image: '',
-        star: 6,
-        tags: '',
-        location: 'Rupgonj Narayangonj',
-        friend: true,
-    },
+    // {
+    //     title: 'Shorna Biswas',
+    //     url: 'https://www.facebook.com/shorna.biswas.9619/',
+    //     url2: '',
+    //     description: '<p>Live in rupgonj narayan gonj. height 5.6. try to be a army before. </p>',
+    //     image: '',
+    //     star: 6,
+    //     tags: '',
+    //     location: 'Rupgonj Narayangonj',
+    //     friend: true,
+    // },
     // {
     //     title: 'Golpo',
     //     url: 'https://www.facebook.com/anupriya.shaha.54/',
@@ -93,16 +93,7 @@ var friends = [
         location: 'dhaka cumilla neighbors',
         friend: true,
     },
-    {
-        title: 'bristy khulna - fake probability ',
-        url: 'https://www.facebook.com/sayoni.sayoni.7923',
-        description: '',
-        image: '',
-        star: 7,
-        tags: 'Looks tall',
-        location: 'khulna',
-        friend: true,
-    },
+
     {
         title: 'Maitry roy',
         url: 'https://www.facebook.com/maitry.roy.796',

@@ -23,7 +23,7 @@ class LinkClicker extends Component {
             this.anchorCreate(urlList[i]);
             // check value of i and increment, if reached the max value then clear the interval
             if (i++ >= max_index) clearInterval(int)
-        }, 100)
+        }, 5)
      }
 
     render() { 

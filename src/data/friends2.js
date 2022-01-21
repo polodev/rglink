@@ -10,6 +10,16 @@ var friends2 = [
         friend: true,
     },
     {
+        title: 'Bappa Debnath',
+        url: 'https://www.facebook.com/anikdebnath.bappa.5',
+        description: 'Religious',
+        image: '',
+        star: 9,
+        tags: '',
+        location: 'dhaka',
+        friend: true,
+    },
+    {
         title: 'Ashim Ranjan Das ',
         url: 'https://www.facebook.com/Ashimrdas',
         description: 'EX DGM Grameen Bank',

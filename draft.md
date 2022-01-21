@@ -133,6 +133,21 @@ Khondoker Brothers Network Transportation
 At, we feel and care about the city we live in, besides performing operational duties to maintain cleanliness in Dhaka city.
 
 
+- Working on new mock up of landing page to redesign bimafy.com website
+- Refactor Code
+- Bug fix
+
+- Updated green delta price table
+- Added order bulk update from data table for our accounts
+- Added progress indicator for submitting health user details page
+- Added media library pro library to our codebase for further Customization
+
+# old subtle
+https://www.facebook.com/ahona.banna.1
+https://www.facebook.com/agnila.debnath
+
+https://www.facebook.com/Shomamajumder.P/
+https://www.facebook.com/profile.php?id=100018683592106
 
 
 

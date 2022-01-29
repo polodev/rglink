@@ -164,6 +164,17 @@ var people_gym_1 = [
         location: 'USA',
         friend: false,
     },
+    {
+        title: 'Omerchaudhary',
+        url: 'https://www.facebook.com/Omerchaudhary.fitness',
+        description: '',
+
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Pakistan',
+        friend: false,
+    },
 ];
 
 export default people_gym_1;

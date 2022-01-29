@@ -39,6 +39,9 @@ import people_gym_1 from '../data/people_gym_1.js';
 import people_gym_friends_1 from '../data/people_gym_friends_1';
 import people_elite_1 from '../data/people_elite_1.js';
 
+import instagram_general_people_1 from '../data/instagram_general_people_1';
+import instagram_gym_people_1 from '../data/instagram_gym_people_1';
+
 var linkItems = [
     {
         text: 'Priority',
@@ -151,6 +154,14 @@ var linkItems = [
     {
         text: 'content_creator_2',
         item: content_creator_2,
+    },
+    {
+        text: 'instagram_general_people_1',
+        item: instagram_general_people_1,
+    },
+    {
+        text: 'instagram_gym_people_1',
+        item: instagram_gym_people_1,
     },
 ];
 

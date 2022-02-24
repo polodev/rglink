@@ -175,6 +175,16 @@ var people_gym_1 = [
         location: 'Pakistan',
         friend: false,
     },
+    {
+        title: 'Yaqoob',
+        url: 'https://www.facebook.com/FitnessOsafYaqoob',
+        description: '',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Pakistan',
+        friend: false,
+    },
 ];
 
 export default people_gym_1;

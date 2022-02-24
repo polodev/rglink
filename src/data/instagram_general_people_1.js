@@ -1,5 +1,15 @@
 var instagram_general_people_1 = [
     {
+      title: 'tribeni_shirsha/',
+      url: 'https://www.instagram.com/tribeni_shirsha/',
+      description: 'debnath - Wish me on 4th September',
+      image: '',
+      star: 1,
+      tags: '',
+      location: '',
+      friend: false,
+    },
+    {
         title: 's_h_r_u_t_l',
         url: 'https://www.instagram.com/s_h_r_u_t_l/',
         description: 'Beautiful and very tall hindu girl',

@@ -41,6 +41,7 @@ import people_elite_1 from '../data/people_elite_1.js';
 
 import instagram_general_people_1 from '../data/instagram_general_people_1';
 import instagram_gym_people_1 from '../data/instagram_gym_people_1';
+import instagram_gym_people_2 from '../data/instagram_gym_people_2';
 
 var linkItems = [
     {
@@ -162,6 +163,10 @@ var linkItems = [
     {
         text: 'instagram_gym_people_1',
         item: instagram_gym_people_1,
+    },
+    {
+        text: 'instagram_gym_people_2',
+        item: instagram_gym_people_2,
     },
 ];
 

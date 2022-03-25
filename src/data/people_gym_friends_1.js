@@ -21,16 +21,6 @@ var people_gym_friends_1 = [
       friend: true,
     },
     {
-      title: 'Mamun vi food panda',
-      url: 'https://www.facebook.com/Mamun.AIS',
-      description: 'Platinum gym',
-      image: '',
-      star: 1,
-      tags: '',
-      location: 'Dhaka',
-      friend: true,
-    },
-    {
       title: 'Joynal Abedin',
       url: 'https://www.facebook.com/profile.php?id=100007961956517',
       description: 'Union Bank, Platinum gym',

@@ -89,6 +89,26 @@ var people_narshingdi_1 = [
         location: 'Narsingdi',
         friend: true,
     },
+    {
+        title: 'KabboToosher',
+        url: 'https://www.facebook.com/KabboToosher',
+        description: 'Nobo Bandhobir jamai',
+        image: '',
+        star: 9,
+        tags: '',
+        location: '',
+        friend: false,
+    },
+    {
+        title: 'Sruity Roy',
+        url: 'https://www.facebook.com/srutiroy.srutiroy.9277',
+        description: 'short beautiful',
+        image: '',
+        star: 6,
+        tags: '',
+        location: 'Narshingdi',
+        friend: true,
+    },
 ];
 
 export default people_narshingdi_1;

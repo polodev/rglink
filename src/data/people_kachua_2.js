@@ -33,16 +33,6 @@ var people_kachua_2 = [
     },
     
     {
-        title: 'Supriti nath',
-        url: 'https://www.facebook.com/supriti.nath.3950',
-        description: 'Naru babu daughter in law',
-        image: '',
-        star: 1,
-        tags: '',
-        location: 'Kachua',
-        friend: true,
-    },
-    {
         title: 'Sumon Julphu',
         url: 'https://www.facebook.com/sumon.sami.1234',
         description: '',

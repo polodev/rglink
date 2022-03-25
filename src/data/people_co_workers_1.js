@@ -10,16 +10,6 @@ var people_co_workers_1 = [
         friend: false,
     },
     {
-        title: 'Mamun Sir',
-        url: 'https://www.facebook.com/mamunnu',
-        description: 'Radius theme',
-        image: '',
-        star: 1,
-        tags: '',
-        location: 'Dhaka',
-        friend: false,
-    },
-    {
         title: 'Mizanur Rahman Mithun',
         url: 'https://www.facebook.com/mizanurrahman.mithun.33',
         description: 'Radius theme',

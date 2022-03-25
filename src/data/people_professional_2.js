@@ -69,6 +69,16 @@ var people_professional_1 = [
         location: 'Dhaka',
         friend: true,
     },
+    {
+        title: 'Peter Kokot',
+        url: 'https://www.facebook.com/peterkokot',
+        description: 'PHP Engineer',
+        image: '',
+        star: 1,
+        tags: '',
+        location: 'Europe',
+        friend: true,
+    },
 ];
 
 export default people_professional_1;

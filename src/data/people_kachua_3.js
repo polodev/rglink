@@ -30,16 +30,6 @@ var people_kachua_3 = [
         friend: true,
     },
     {
-        title: 'Sazib (sakib er vai) hasander bari',
-        url: 'https://www.facebook.com/ar.sazib.5',
-        description: '',
-        image: '',
-        star: 1,
-        tags: '',
-        location: 'Kachua',
-        friend: true,
-    },
-    {
         title: 'Jobayer bin habib',
         url: 'https://www.facebook.com/jobayer.bin.habib.96',
         description: '',
@@ -52,16 +42,6 @@ var people_kachua_3 = [
     {
         title: 'Jani vagina (mithun)',
         url: 'https://www.facebook.com/joni.sarker.378',
-        description: '',
-        image: '',
-        star: 1,
-        tags: '',
-        location: 'Kachua',
-        friend: true,
-    },
-    {
-        title: 'Mamun (politician)',
-        url: 'https://www.facebook.com/profile.php?id=100013775707509',
         description: '',
         image: '',
         star: 1,

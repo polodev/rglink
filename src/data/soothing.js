@@ -75,6 +75,16 @@ var soothing = [
         location: '',
         friend: false,
     },
+    {
+        title: 'Joyshree Debi - Dancer',
+        url: 'https://www.facebook.com/profile.php?id=100009944554638',
+        description: 'Dancer',
+        image: '',
+        star: 10,
+        tags: '',
+        location: 'Dhaka',
+        friend: false,
+    },
 ];
 
 export default soothing;

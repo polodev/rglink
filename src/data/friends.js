@@ -115,6 +115,26 @@ var friends = [
         location: 'Potuakhali',
         friend: true,
     },
+    {
+        title: 'Srijona Debnath',
+        url: 'https://www.facebook.com/profile.php?id=100070100747489',
+        description: 'Shrawsy Debnath (Momo) sisters',
+        image: '',
+        star: 9,
+        tags: '',
+        location: 'Dhaka',
+        friend: false,
+    },
+    {
+        title: 'Srijona Deb Nath',
+        url: 'https://www.instagram.com/srijonaaaaa',
+        description: 'Shrawsy Debnath (Momo) sisters',
+        image: '',
+        star: 9,
+        tags: '',
+        location: 'Dhaka',
+        friend: false,
+    },
 ];
 
 export default friends;

@@ -21,6 +21,16 @@ var friends2 = [
         friend: false,
     },
     {
+        title: 'Debnath Mili',
+        url: 'https://www.facebook.com/debnath.mili.1',
+        description: 'Mother - Mirpur',
+        image: '',
+        star: 9,
+        tags: '',
+        location: 'dhaka',
+        friend: false,
+    },
+    {
         title: 'Bappa Debnath',
         url: 'https://www.facebook.com/anikdebnath.bappa.5',
         description: 'Religious',

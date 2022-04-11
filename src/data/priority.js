@@ -1,5 +1,16 @@
 var priority = [
     {
+        title: 'সুষমিতা দেবনাথ',
+        url: 'https://www.facebook.com/red.skaarp',
+        description: 'CRUSH',
+        image: '',
+        star: 10,
+        tags: '',
+        location: 'Hazigonj/dhaka',
+        fb_id: '',
+        friend: true,
+    },
+    {
         title: 'Oishi Paul',
         url: 'https://www.facebook.com/oishi.paul78',
         description: 'CRUSH',

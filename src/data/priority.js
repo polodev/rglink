@@ -22,17 +22,6 @@ var priority = [
         friend: true,
     },
     {
-        title: 'সুষমিতা দেবনাথ',
-        url: 'https://www.facebook.com/red.skaarp',
-        description: 'well',
-        image: '',
-        star: 8,
-        tags: '',
-        location: 'Hazigonj/dhaka',
-        fb_id: '',
-        friend: false,
-    },
-    {
         title: 'Amisha nandi',
         url: 'https://www.facebook.com/amisha.nandi.35',
         description: 'CRUSH 2.0',

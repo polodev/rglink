@@ -4,6 +4,7 @@ import LinkTab from './LinkTab';
 import links1 from '../data/links1';
 import friends from '../data/friends';
 import friends2 from '../data/friends2';
+import friends3 from '../data/friends3';
 import priority from '../data/priority';
 import soothing from '../data/soothing';
 import links3 from '../data/links3';
@@ -56,6 +57,10 @@ var linkItems = [
     {
         text: 'Friends 2',
         item: friends2,
+    },
+    {
+        text: 'Friends 3',
+        item: friends3,
     },
     {
         text: 'Soothing',

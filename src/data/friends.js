@@ -128,16 +128,6 @@ var friends = [
         friend: true,
     },
     {
-        title: 'Dipa Datto(দিপা দত্ত)',
-        url: 'https://www.facebook.com/profile.php?id=100010517802324',
-        description: '',
-        image: '',
-        star: 5,
-        tags: '',
-        location: 'Potuakhali',
-        friend: true,
-    },
-    {
         title: 'Srijona Debnath',
         url: 'https://www.facebook.com/profile.php?id=100070100747489',
         description: 'Shrawsy Debnath (Momo) sisters',
@@ -149,7 +139,7 @@ var friends = [
     },
     {
         title: 'Srijona Deb Nath',
-        url: 'https://www.instagram.com/srijonaaaaa',
+        url: 'https://www.instagram.com/srijonaaa',
         description: 'Shrawsy Debnath (Momo) sisters',
         image: '',
         star: 9,

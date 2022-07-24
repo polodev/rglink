@@ -11,6 +11,16 @@ var friends3 = [
         friend: true,
     },
     {
+        title: 'Anik Pall',
+        url: 'https://www.instagram.com/anik.pall.925/',
+        description: 'Oishi',
+        image: '',
+        star: 8,
+        tags: '',
+        location: 'dhaka',
+        friend: true,
+    },
+    {
         title: 'jitendra Debnath',
         url: 'https://www.facebook.com/jitendra.devnath',
         description: 'buet and susmita fathers',

@@ -32,6 +32,17 @@ var priority = [
         fb_id: '',
         friend: true,
     },
+    {
+        title: 'Shorna Biswas',
+        url: 'https://www.facebook.com/shorna.biswas.9619',
+        description: 'just friend',
+        image: '',
+        star: 1,
+        tags: 'height- 5.5inch',
+        location: 'Rup gonj',
+        fb_id: '',
+        friend: true,
+    },
     // {
     //     title: 'Amisha nandi',
     //     url: 'https://www.facebook.com/amisha.nandi.35',

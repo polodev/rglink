@@ -1,19 +1,9 @@
 // guardian
 var friends3 = [
     {
-        title: 'Sourov Debnath',
-        url: 'https://www.facebook.com/profile.php?id=100046988463877',
-        description: 'MBBS student. Ananya brothers',
-        image: '',
-        star: 8,
-        tags: '',
-        location: 'dhaka',
-        friend: true,
-    },
-    {
         title: 'Anik Pall',
         url: 'https://www.instagram.com/anik.pall.925/',
-        description: 'Oishi',
+        description: '',
         image: '',
         star: 8,
         tags: '',
@@ -41,16 +31,6 @@ var friends3 = [
         friend: false,
     },
     {
-        title: 'Debnath Mili',
-        url: 'https://www.facebook.com/debnath.mili.1',
-        description: 'Mother - Mirpur',
-        image: '',
-        star: 9,
-        tags: '',
-        location: 'dhaka',
-        friend: false,
-    },
-    {
         title: 'Bappa Debnath',
         url: 'https://www.facebook.com/anikdebnath.bappa.5',
         description: 'Religious',
@@ -61,26 +41,6 @@ var friends3 = [
         friend: true,
     },
 
-    {
-        title: 'Ratan Saha',
-        url: 'https://www.facebook.com/ratan.saha1',
-        description: 'Dhaka wari',
-        image: '',
-        star: 9,
-        tags: '',
-        location: 'Dhaka',
-        friend: true,
-    },
-    {
-        title: 'Kc debnath',
-        url: 'https://www.facebook.com/kc.debnath.1',
-        description: 'Like him as girls father. Teacher from Naogaon',
-        image: '',
-        star: 8,
-        tags: '',
-        location: 'Naogaon',
-        friend: true,
-    },
     {
         title: 'Ronoy Paul',
         url: 'https://www.facebook.com/ronoy.paul',
@@ -110,17 +70,6 @@ var friends3 = [
         tags: '',
         location: '',
         friend: false,
-    },
-    {
-        title: 'Jaba Biswas - Troye Trishita mother',
-        url: 'https://www.facebook.com/jaba.biswas.758',
-        description: 'Dhaka Aidtya Snighda er friend',
-        image: '',
-        star: 9,
-        tags: '',
-        location: 'Dhaka',
-        fb_id: '',
-        friend: true,
     },
 
 

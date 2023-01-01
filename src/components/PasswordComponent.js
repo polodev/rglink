@@ -4,7 +4,7 @@ class PasswordComponent extends Component {
         super(props);
         this.state = {
             value: '',
-            password: 'friends',
+            password: 'hello',
             showChildren: false,
         };
     

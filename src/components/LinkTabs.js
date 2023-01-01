@@ -151,6 +151,10 @@ var linkItems = [
         item: people_gym_friends_1,
     },
     {
+        text: 'people_elite_1',
+        item: people_elite_1,
+    },
+    {
         text: 'people_india_1',
         item: people_india_1,
     },

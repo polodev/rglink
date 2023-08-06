@@ -193,8 +193,8 @@ class LinkTabs extends Component {
         return ( <div>
             <Tabs onSelect={(index, label) => console.log(label + ' selected')}>
                 {
-                    linkItems.map(linkItem => 
-                            <Tab label={linkItem.text}>
+                    linkItems.map((linkItem, index) =>
+                            <Tab label={linkItem.text} key={index}>
                                 <LinkTab title="" links={linkItem.item}></LinkTab>
                             </Tab>
 
